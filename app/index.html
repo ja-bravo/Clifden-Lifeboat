@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title></title>
+    <title>Clifden Lifeboat 10k Run</title>
 
     <!-- Disable tap highlight on IE -->
     <meta name="msapplication-tap-highlight" content="no">
@@ -20,7 +20,7 @@
 
     <!-- Add to homescreen for Safari on iOS -->
     <meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-status-bar-f" content="black">
     <meta name="apple-mobile-web-app-title" content="Web Starter Kit">
     <link rel="apple-touch-icon" href="images/touch/apple-touch-icon.png">
 
@@ -35,11 +35,25 @@
     <!--
     <link rel="canonical" href="http://www.example.com/">
     -->
+
+    <link rel="stylesheet" href="./styles/main.css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet">
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.46.0/mapbox-gl.css' rel='stylesheet' />
+
   </head>
   <body>
-    <!-- Add your site or app content here -->
+    
+    <div class="heroBanner">
+      <span class="title">Clifden Lifeboat 10k run</span>
+      <span class="subtitle">Do you have what it takes?</span>
+
+      <div id="map"></div>
+    </div>
+
+
 
     <!-- build:js scripts/main.min.js -->
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.46.0/mapbox-gl.js'></script>
     <script src="scripts/main.js"></script>
     <!-- endbuild -->
 

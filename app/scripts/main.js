@@ -72,5 +72,9 @@
     });
   }
 
-  // Your custom JavaScript goes here
+  mapboxgl.accessToken = 'pk.eyJ1IjoiamFicmF2byIsImEiOiJjamV2YmVyeDcwOGthMnhzMjQwdWgwdXl6In0.ln4GWqJHdPCIQJDXgmXF3Q';
+  var map = new mapboxgl.Map({
+      container: 'map',
+      style: 'mapbox://styles/mapbox/streets-v9'
+  });
 })();
