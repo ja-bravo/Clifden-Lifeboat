@@ -1,0 +1,23 @@
+.aboutUs {
+
+    .title, .subtitle {
+        color: #2F2D2B;
+    }
+
+    .image {
+        img {
+            width: 275px;
+            height: 275px;
+            border-radius: 6px;
+            margin: 0 auto;
+            box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+        }
+
+        .subtitle {
+            text-align: center;
+            font-size: 0.9rem;
+            margin-top: 10px;
+            font-weight: 500;
+        }
+    }
+}

@@ -6,7 +6,7 @@ const Hero = () => (
     <div className="hero-body">
       <div className="container">
         <h1 className="title"> Clifden Lifeboat 10k race</h1>
-        <h2 className="subtitle">Accurately measured course, AAI permit, medals for all finishers. Trophies.</h2>
+        <h2 className="subtitle">Do you have what it takes?</h2>
       </div>
     </div>
   </section>

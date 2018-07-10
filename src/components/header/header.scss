@@ -1,7 +1,15 @@
 .navbar {
+    border-top: 4px solid #0099cc;
     background-color: #2F2D2B !important;
     
     * {
         color: white !important;
+    }
+
+    .navbar-brand {
+        .navbar-item {
+            font-weight: bold;
+            text-transform: uppercase;
+        }
     }
 }

@@ -17,12 +17,12 @@ Taken from https://bulma.io/documentation/overview/customize/
 
 // 3. Set the derived variables
 // Use the new pink as the primary color
-// $primary: $pink;
+$primary: #2F2D2B;;
 // $primary-invert: $pink-invert;
 // Use the existing orange as the danger color
 // $danger: $orange;
 // Use the new serif family
-// $family-primary: $family-serif;
+$family-primary: 'Lato', sans-serif;
 
 // 4. Setup your Custom Colors
 // $linkedin: #0077b5;
@@ -46,3 +46,12 @@ Taken from https://bulma.io/documentation/overview/customize/
 
 // 6. Import the rest of Bulma
 @import "~bulma/bulma.sass";
+
+.mainWrapper {
+    background: #ece9e2;
+}
+
+.title, .subtitle {
+    font-family: 'Playfair Display', serif;
+    line-height: 1.3;
+}
