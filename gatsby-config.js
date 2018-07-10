@@ -2,6 +2,6 @@ module.exports = {
   siteMetadata: {
     title: 'Clifden Lifeboat 10k race',
   },
-  pathPrefix: '/gatsby-bulma-default',
+  pathPrefix: '/test',
   plugins: ['gatsby-plugin-react-helmet', 'gatsby-plugin-sass'],
 }

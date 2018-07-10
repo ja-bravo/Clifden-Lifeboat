@@ -22,7 +22,7 @@ const TheRace = () => (
           </div>
         </div>
 
-        <div className="column">
+        <div className="column mapColumn">
           <Map />
         </div>
       </div>

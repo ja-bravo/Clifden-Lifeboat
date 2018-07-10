@@ -17,7 +17,7 @@ Taken from https://bulma.io/documentation/overview/customize/
 
 // 3. Set the derived variables
 // Use the new pink as the primary color
-$primary: #2F2D2B;;
+$primary: #0099cc;
 // $primary-invert: $pink-invert;
 // Use the existing orange as the danger color
 // $danger: $orange;
@@ -54,4 +54,5 @@ $family-primary: 'Lato', sans-serif;
 .title, .subtitle {
     font-family: 'Playfair Display', serif;
     line-height: 1.3;
+    color: hsla(192, 4%, 18%, 1) !important;
 }

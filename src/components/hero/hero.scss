@@ -4,8 +4,8 @@
     background-size: cover;
     background-position: center;
     filter: grayscale(20%);
-}
 
-.title, .subtitle {
-    color: white;
+    .title, .subtitle {
+        color: white !important;
+    }
 }

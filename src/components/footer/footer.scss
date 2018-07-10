@@ -1,0 +1,38 @@
+.footer {
+    width: 100%;
+    padding: 0 !important;
+    background: #2c2c2a;
+
+    .contactUs {
+        display: flex;
+        flex-direction: column;
+        p {
+            color: white;
+            font-weight: bold;
+            text-transform: uppercase;
+            font-size: 20px;
+            letter-spacing: 3px;
+        }
+
+        .options {
+            display: flex;
+            flex-direction: column;
+            font-size: 14px;
+            padding-left: 16px;
+
+            .mdi {
+                color: white;
+                margin-right: 5px;
+                
+            }
+
+            a {
+                color: white;
+                transition: all 0.2s ease-in;
+                &:hover {
+                    color: #0099cc;
+                }
+            }
+        }
+    }
+}

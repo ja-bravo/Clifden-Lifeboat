@@ -33,6 +33,7 @@ module.exports = class HTML extends React.Component {
           <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,700" rel="stylesheet" />
           <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.42.2/mapbox-gl.js'></script>
           <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.42.2/mapbox-gl.css' rel='stylesheet' />
+          <link rel="stylesheet" href="//cdn.materialdesignicons.com/2.5.94/css/materialdesignicons.min.css" />
            
           {this.props.headComponents}
           {css}
