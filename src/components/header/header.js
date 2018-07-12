@@ -4,9 +4,7 @@ import './header.scss';
 
 const Header = ({ siteTitle }) => (
   <nav className="navbar is-fixed-top" role="navigation" aria-label="main navigation">
-    <div className="navbar-brand">
-      <Link className="navbar-item" to="/">Clifden Lifeboat</Link>
-    </div>
+    <span className="headerTitle">Clifden Lifeboat 10k Race</span>
   </nav>
 )
 

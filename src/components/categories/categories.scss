@@ -2,8 +2,8 @@
     .image {
         border-radius: 6px;
         box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
-        height: 275px;
-        width: 275px;
+        min-width: 275px;
+        min-height: 275px;
         margin: 0 auto;
         background: url('../../images/prices.jpg');
         background-size: cover;
@@ -18,15 +18,12 @@
 
     .content {
         .title {
-            .catIcon {
-                font-size: 18px;
-                color:  #0099cc;
-            }
+            font-size: 1.3rem;
         }
 
         .subtitle {
             padding-left: 25px;
-            font-size: 1.20rem;
+            font-size: 1em;
 
             &.men {
                 margin-bottom: 0;

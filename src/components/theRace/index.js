@@ -4,7 +4,7 @@ import mikey from '../../images/mikey.jpg';
 import Map from '../map';
 
 const TheRace = () => (
-  <section className="section theRace">
+  <section className="section theRace" id="theRace">
     <div className="container">
       <div className="columns">
         <div className="column is-8">

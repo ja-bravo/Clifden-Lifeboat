@@ -3,10 +3,10 @@ import './aboutUs.scss';
 import mikey from '../../images/mikey.jpg';
 
 const AboutUs = () => (
-  <section className="section aboutUs">
+  <section className="section aboutUs" id="aboutUs">
     <div className="container">
       <div className="columns">
-        <div className="column">
+        <div className="column is-hidden-touch">
           <figure className="image">
             <img src={mikey} />
             <p className="subtitle">Mikey Mullen, 2004</p>
@@ -26,6 +26,13 @@ const AboutUs = () => (
             <p> Due to the overwhelming positive response we have received following the first race, it was decided to make this into a yearly fixture.
             The race is open to all athlethes, as well as leisure runners and walkers, and can be entered into individually or as teams of 3 or 4 people.</p>
           </div>
+        </div>
+
+        <div className="column is-hidden-desktop">
+          <figure className="image">
+            <img src={mikey} />
+            <p className="subtitle">Mikey Mullen, 2004</p>
+          </figure>
         </div>
       </div>
     </div>
