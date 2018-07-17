@@ -1,4 +1,10 @@
+# Project dependencies
+.cache
 node_modules
-dist/
+yarn-error.log
 .tmp
-app.yaml
+.dist
+
+# Build directory
+/public
+.DS_Store

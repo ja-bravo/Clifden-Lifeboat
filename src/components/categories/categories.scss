@@ -1,0 +1,45 @@
+.categories {
+    .image {
+        border-radius: 6px;
+        box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+        min-width: 275px;
+        min-height: 275px;
+        margin: 0 auto;
+        background: url('../../images/prices.jpg');
+        background-size: cover;
+        background-position-x: 28%;
+
+        @media screen and (max-width: 768px) {
+            & {
+                width: 100%;
+            }
+        }
+    }
+
+    .content {
+        .title {
+            font-size: 1.3rem;
+        }
+
+        .subtitle {
+            padding-left: 25px;
+            font-size: 1em;
+
+            &.men {
+                margin-bottom: 0;
+            }
+
+            .best {
+                font-weight: bold;
+                font-size: 1rem;
+                display: inline-block;
+                min-width: 75px;
+            }
+        }
+
+        .mdi-currency-eur {
+            margin-right: -5px;
+            font-size: 14px;
+        }
+    }
+}
