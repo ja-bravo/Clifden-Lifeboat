@@ -9,7 +9,7 @@
     "gatsby-link": "^1.6.40",
     "gatsby-plugin-netlify-cms": "^2.0.1",
     "gatsby-plugin-react-helmet": "^2.0.10",
-    "gatsby-plugin-sass": "^1.0.26",
+    "gatsby-plugin-sass": "1.0.19",
     "netlify-cms": "^1.9.3",
     "node-sass": "^4.9.2",
     "react-helmet": "^5.2.0"
