@@ -1,8 +1,8 @@
 {
   "name": "gatsby-bulma-default",
-  "description": "Gatsby bulma default starter",
+  "description": "Clifden 10k",
   "version": "1.0.0",
-  "author": "Avi Aryan <avi.aryan123@gmail.com>",
+  "author": "Jose Bravo <ja.bravo.isidro@gmail.com>",
   "dependencies": {
     "bulma": "^0.7.1",
     "gatsby": "^1.9.247",
