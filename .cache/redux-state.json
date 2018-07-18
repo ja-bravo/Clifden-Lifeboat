@@ -1,23 +1,13 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
-      "layout": "index",
-      "jsonName": "dev-404-page.json",
-      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "/Users/jose/Desktop/Clifden-Lifeboat/.cache/dev-404-page.js",
-      "componentChunkName": "component---cache-dev-404-page-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin dev-404-page",
-      "pluginCreatorId": "Plugin dev-404-page",
-      "componentPath": "/Users/jose/Desktop/Clifden-Lifeboat/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "1b6149223a6bf530bc6c5bffa25e205e",
-        "description": "Plugin dev-404-page",
+        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
         "owner": "internal-data-bridge"
       }
     },
@@ -362,93 +352,11 @@
         "owner": "internal-data-bridge"
       }
     },
-    "Plugin gatsby-plugin-netlify-cms": {
-      "resolve": "/Users/jose/Desktop/Clifden-Lifeboat/node_modules/gatsby-plugin-netlify-cms",
-      "id": "Plugin gatsby-plugin-netlify-cms",
-      "name": "gatsby-plugin-netlify-cms",
-      "version": "2.0.1",
-      "pluginOptions": {
-        "plugins": []
-      },
-      "nodeAPIs": [
-        "modifyWebpackConfig"
-      ],
-      "browserAPIs": [
-        "onInitialClientRender"
-      ],
-      "ssrAPIs": [],
-      "pluginFilepath": "/Users/jose/Desktop/Clifden-Lifeboat/node_modules/gatsby-plugin-netlify-cms",
-      "packageJson": {
-        "name": "gatsby-plugin-netlify-cms",
-        "description": "A Gatsby plugin which generates the Netlify CMS single page app",
-        "version": "2.0.1",
-        "main": "index.js",
-        "keywords": [
-          "gatsby",
-          "gatsby-plugin",
-          "netlify",
-          "netlify-cms",
-          "cms"
-        ],
-        "author": {
-          "name": "Shawn Erquhart",
-          "email": "shawn@erquh.art"
-        },
-        "license": "MIT",
-        "dependencies": [
-          {
-            "name": "html-webpack-include-assets-plugin",
-            "version": "^1.0.2"
-          },
-          {
-            "name": "html-webpack-plugin",
-            "version": "^2.30.1"
-          },
-          {
-            "name": "netlify-identity-widget",
-            "version": "^1.4.11"
-          }
-        ],
-        "devDependencies": [
-          {
-            "name": "babel-cli",
-            "version": "^6.26.0"
-          },
-          {
-            "name": "cross-env",
-            "version": "^5.1.3"
-          }
-        ],
-        "peerDependencies": [
-          {
-            "name": "extract-text-webpack-plugin",
-            "version": "^1.0.1"
-          },
-          {
-            "name": "gatsby",
-            "version": "^1.0.0"
-          },
-          {
-            "name": "netlify-cms",
-            "version": "^1.0.0"
-          }
-        ],
-        "optionalDependecies": [],
-        "bundledDependecies": []
-      },
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "contentDigest": "1c78f4c12d69833ce764bd4e9f03f4df",
-        "type": "SitePlugin",
-        "owner": "internal-data-bridge"
-      }
-    },
     "Plugin default-site-plugin": {
       "resolve": "/Users/jose/Desktop/Clifden-Lifeboat",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
-      "version": "7f37ec61d118f2da7a07b5a6d7b17de5",
+      "version": "4830982b9adfd1f8b28ae5ef5d93c211",
       "pluginOptions": {
         "plugins": []
       },
@@ -479,20 +387,12 @@
             "version": "^1.6.40"
           },
           {
-            "name": "gatsby-plugin-netlify-cms",
-            "version": "^2.0.1"
-          },
-          {
             "name": "gatsby-plugin-react-helmet",
             "version": "^2.0.10"
           },
           {
             "name": "gatsby-plugin-sass",
             "version": "1.0.19"
-          },
-          {
-            "name": "netlify-cms",
-            "version": "^1.9.3"
           },
           {
             "name": "node-sass",
@@ -516,7 +416,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "36b3845c17089a9b57723a27eb6582bc",
+        "contentDigest": "46dbf3dfb30ab2282b1026eb8cbcc472",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -607,15 +507,14 @@
       "siteMetadata": {
         "title": "Clifden Lifeboat 10k race"
       },
-      "port": "8000",
-      "host": "localhost",
       "pathPrefix": "/test",
-      "buildTime": "2018-07-18T08:58:50.583Z",
+      "polyfill": true,
+      "buildTime": "2018-07-18T13:36:31.146Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "6123363cbe86c8b6d23f7b41e1ae89b8",
+        "contentDigest": "82414679743124ca9c4e1ad7d0611310",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -636,7 +535,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "81756474c6e75fc985baa4643e732a91",
+        "contentDigest": "89149be5388b67600b72e411d7c783a0",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -657,7 +556,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "63ecb418e1eba0ad2d6928e2568333dc",
+        "contentDigest": "f2cf37caafef4c55ed35a7ea3410f8cc",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -678,7 +577,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "12004b258e79c4ce67b9d71eae38e12c",
+        "contentDigest": "0c7dd3bbec9b354fb5374d98eb0d8206",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }
@@ -686,7 +585,7 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "ba97fb1bbe75c2cc08afeaf235de75b5"
+    "PLUGINS_HASH": "c77cbf93815a9071fa5c690b92972183"
   },
   "componentDataDependencies": {
     "nodes": {
