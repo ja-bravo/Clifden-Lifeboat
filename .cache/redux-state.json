@@ -1,13 +1,23 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
+      "layout": "index",
+      "jsonName": "dev-404-page.json",
+      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
+      "component": "/Users/jose/Desktop/Clifden-Lifeboat/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin dev-404-page",
+      "pluginCreatorId": "Plugin dev-404-page",
+      "componentPath": "/Users/jose/Desktop/Clifden-Lifeboat/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
+        "contentDigest": "1155c942e3c5322b41db1cd248764c15",
+        "description": "Plugin dev-404-page",
         "owner": "internal-data-bridge"
       }
     },
@@ -42,45 +52,6 @@
       "children": [],
       "internal": {
         "contentDigest": "eb7de0665fe25791836cb37b3e2f3c2b",
-        "type": "SitePlugin",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "Plugin component-page-creator": {
-      "resolve": "/Users/jose/Desktop/Clifden-Lifeboat/node_modules/gatsby/dist/internal-plugins/component-page-creator",
-      "id": "Plugin component-page-creator",
-      "name": "component-page-creator",
-      "version": "1.0.0",
-      "pluginOptions": {
-        "plugins": []
-      },
-      "nodeAPIs": [
-        "createPagesStatefully"
-      ],
-      "browserAPIs": [],
-      "ssrAPIs": [],
-      "pluginFilepath": "/Users/jose/Desktop/Clifden-Lifeboat/node_modules/gatsby/dist/internal-plugins/component-page-creator",
-      "packageJson": {
-        "name": "component-page-creator",
-        "description": "An internal Gatsby plugin that creates pages from component files in src/pages",
-        "version": "1.0.0",
-        "main": "index.js",
-        "keywords": [
-          "gatsby",
-          "gatsby-plugin"
-        ],
-        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
-        "license": "MIT",
-        "dependencies": [],
-        "devDependencies": [],
-        "peerDependencies": [],
-        "optionalDependecies": [],
-        "bundledDependecies": []
-      },
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "contentDigest": "afd0d2bb6060348a25d7e564c96982b8",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -266,7 +237,10 @@
           "noscript",
           "style"
         ],
-        "author": "Kyle Mathews <matthews.kyle@gmail.com>",
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "matthews.kyle@gmail.com"
+        },
         "license": "MIT",
         "dependencies": [
           {
@@ -309,7 +283,7 @@
       "resolve": "/Users/jose/Desktop/Clifden-Lifeboat/node_modules/gatsby-plugin-sass",
       "id": "Plugin gatsby-plugin-sass",
       "name": "gatsby-plugin-sass",
-      "version": "1.0.26",
+      "version": "1.0.19",
       "pluginOptions": {
         "plugins": []
       },
@@ -322,7 +296,7 @@
       "packageJson": {
         "name": "gatsby-plugin-sass",
         "description": "Gatsby plugin to handle scss/sass files",
-        "version": "1.0.26",
+        "version": "1.0.19",
         "main": "index.js",
         "keywords": [
           "gatsby",
@@ -330,7 +304,10 @@
           "sass",
           "scss"
         ],
-        "author": "Daniel Farrell <daniel@mobelux.com>",
+        "author": {
+          "name": "Daniel Farrell",
+          "email": "daniel@mobelux.com"
+        },
         "license": "MIT",
         "dependencies": [
           {
@@ -338,12 +315,12 @@
             "version": "^6.26.0"
           },
           {
-            "name": "gatsby-1-config-css-modules",
-            "version": "^1.0.11"
+            "name": "extract-text-webpack-plugin",
+            "version": "^1.0.1"
           },
           {
-            "name": "gatsby-1-config-extract-plugin",
-            "version": "^1.0.3"
+            "name": "gatsby-1-config-css-modules",
+            "version": "^1.0.10"
           },
           {
             "name": "node-sass",
@@ -380,7 +357,89 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "888b900440c382c66a4309b41f78b8ef",
+        "contentDigest": "7b596ee7a6e0a10b9d969dc3171de0a6",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-netlify-cms": {
+      "resolve": "/Users/jose/Desktop/Clifden-Lifeboat/node_modules/gatsby-plugin-netlify-cms",
+      "id": "Plugin gatsby-plugin-netlify-cms",
+      "name": "gatsby-plugin-netlify-cms",
+      "version": "2.0.1",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "modifyWebpackConfig"
+      ],
+      "browserAPIs": [
+        "onInitialClientRender"
+      ],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/jose/Desktop/Clifden-Lifeboat/node_modules/gatsby-plugin-netlify-cms",
+      "packageJson": {
+        "name": "gatsby-plugin-netlify-cms",
+        "description": "A Gatsby plugin which generates the Netlify CMS single page app",
+        "version": "2.0.1",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "netlify",
+          "netlify-cms",
+          "cms"
+        ],
+        "author": {
+          "name": "Shawn Erquhart",
+          "email": "shawn@erquh.art"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "html-webpack-include-assets-plugin",
+            "version": "^1.0.2"
+          },
+          {
+            "name": "html-webpack-plugin",
+            "version": "^2.30.1"
+          },
+          {
+            "name": "netlify-identity-widget",
+            "version": "^1.4.11"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.3"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "extract-text-webpack-plugin",
+            "version": "^1.0.1"
+          },
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "netlify-cms",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "1c78f4c12d69833ce764bd4e9f03f4df",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -389,7 +448,7 @@
       "resolve": "/Users/jose/Desktop/Clifden-Lifeboat",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
-      "version": "4830982b9adfd1f8b28ae5ef5d93c211",
+      "version": "7f37ec61d118f2da7a07b5a6d7b17de5",
       "pluginOptions": {
         "plugins": []
       },
@@ -398,13 +457,13 @@
       "ssrAPIs": [],
       "pluginFilepath": "/Users/jose/Desktop/Clifden-Lifeboat",
       "packageJson": {
-        "name": "gatsby-bulma-default",
-        "description": "Gatsby bulma default starter",
+        "name": "clifden-10k",
+        "description": "Clifden 10k",
         "version": "1.0.0",
         "keywords": [
           "gatsby"
         ],
-        "author": "Avi Aryan <avi.aryan123@gmail.com>",
+        "author": "Jose Bravo <ja.bravo.isidro@gmail.com>",
         "license": "MIT",
         "dependencies": [
           {
@@ -420,12 +479,20 @@
             "version": "^1.6.40"
           },
           {
+            "name": "gatsby-plugin-netlify-cms",
+            "version": "^2.0.1"
+          },
+          {
             "name": "gatsby-plugin-react-helmet",
             "version": "^2.0.10"
           },
           {
             "name": "gatsby-plugin-sass",
-            "version": "^1.0.26"
+            "version": "1.0.19"
+          },
+          {
+            "name": "netlify-cms",
+            "version": "^1.9.3"
           },
           {
             "name": "node-sass",
@@ -449,7 +516,89 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "46dbf3dfb30ab2282b1026eb8cbcc472",
+        "contentDigest": "36b3845c17089a9b57723a27eb6582bc",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-page-creator": {
+      "resolve": "/Users/jose/Desktop/Clifden-Lifeboat/node_modules/gatsby-plugin-page-creator",
+      "id": "Plugin gatsby-plugin-page-creator",
+      "name": "gatsby-plugin-page-creator",
+      "version": "1.0.1",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "/Users/jose/Desktop/Clifden-Lifeboat/src/pages",
+        "pathCheck": false
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/jose/Desktop/Clifden-Lifeboat/node_modules/gatsby-plugin-page-creator",
+      "packageJson": {
+        "name": "gatsby-plugin-page-creator",
+        "description": "Gatsby plugin that automatically creates pages from React components in specified directories",
+        "version": "1.0.1",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "glob",
+            "version": "^7.1.1"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "parse-filepath",
+            "version": "^1.0.1"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "c3ce4ca15537febbff6b977da05cb2b6",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -458,14 +607,16 @@
       "siteMetadata": {
         "title": "Clifden Lifeboat 10k race"
       },
+      "port": "8000",
+      "host": "localhost",
       "pathPrefix": "/test",
       "polyfill": true,
-      "buildTime": "2018-07-17T12:06:22.557Z",
+      "buildTime": "2018-07-18T07:20:59.904Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "4c2aa15cfe4b8903e5d9235a77287734",
+        "contentDigest": "b008752027d7c422984a1b2128212f7d",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -478,16 +629,16 @@
       "component": "/Users/jose/Desktop/Clifden-Lifeboat/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
       "componentPath": "/Users/jose/Desktop/Clifden-Lifeboat/src/pages/404.js",
       "id": "SitePage /404/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c765b13343fa5d806c38fe1137af934e",
-        "description": "Plugin component-page-creator",
+        "contentDigest": "dd1a63e399e7c2eaadc38294341e2d33",
+        "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
     },
@@ -499,16 +650,16 @@
       "component": "/Users/jose/Desktop/Clifden-Lifeboat/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
       "componentPath": "/Users/jose/Desktop/Clifden-Lifeboat/src/pages/index.js",
       "id": "SitePage /",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "61c78793196b4d31070816a374c45328",
-        "description": "Plugin component-page-creator",
+        "contentDigest": "1fb5bf9aa519e5f2c34ccf86b0942a51",
+        "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
     },
@@ -528,7 +679,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0329d2582e02c0095d3f60e61014d2fe",
+        "contentDigest": "42651eb85e56c7483920755daced1515",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }
@@ -536,7 +687,7 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "cf50058a1c7e1361b842074819d9c658"
+    "PLUGINS_HASH": "ba97fb1bbe75c2cc08afeaf235de75b5"
   },
   "componentDataDependencies": {
     "nodes": {
