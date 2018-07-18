@@ -1,6 +1,5 @@
 import React from 'react';
 import './theRace.scss';
-import mikey from '../../images/mikey.jpg';
 import Map from '../map';
 
 const TheRace = () => (

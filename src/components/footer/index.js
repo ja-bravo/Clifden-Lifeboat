@@ -15,7 +15,7 @@ const Footer = () => (
         </div>
 
         <div className="column right">
-          <a href="https://www.runireland.com/events/clifden-lifeboat-10k-run/" className="enter">Enter Online</a>
+          <a href="https://www.runireland.com/events/clifden-lifeboat-10k-run/" className="enter">Enter online</a>
         </div>
 
       </div>
