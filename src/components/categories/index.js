@@ -22,11 +22,12 @@ const Categories = () => (
             <p className="subtitle is-spaced">Trophies for 1st</p>
 
             <h3 className="title"> Teams </h3>
-            <p className="subtitle is-spaced">Perpetual shield for 1st team, and smaller individual trophy for each winning team member to keep. Smaller individual trophies for each member of 2nd and 3rd team</p>
+            <p className="subtitle is-spaced">Perpetual shield for 1st team, and smaller individual trophy for each winning team member to keep. <br className="is-hidden-desktop"/><br className="is-hidden-desktop"/>
+            Smaller individual trophies for each member of 2nd and 3rd team</p>
 
             <h3 className="title"> Trophy for anyone who can beat the best finishing times </h3>
             <p className="subtitle men"><span className="best"> Men </span> 35.34 minutes (Martin Lyons, 2010)</p>
-            <p className="subtitle is-spaced"><span className="best">Women </span> 45.07 minutes (Rachel Mannion, 2010)</p>
+            <p className="subtitle woman is-spaced"><span className="best">Women </span> 45.07 minutes (Rachel Mannion, 2010)</p>
 
             <p>Entry fee is <span className="mdi mdi-currency-eur" /> 20 individuals or <span className="mdi mdi-currency-eur" /> 50/teams</p>
           </div>

@@ -1,4 +1,10 @@
 .categories {
+    .subtitle {
+        @media screen and (max-width: 768px) {
+            font-size: 1rem;
+        }
+    }
+    
     .image {
         border-radius: 6px;
         box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
@@ -34,6 +40,27 @@
                 font-size: 1rem;
                 display: inline-block;
                 min-width: 75px;
+            }
+        }
+
+        @media screen and (max-width: 768px) {
+            .title {
+                font-size: 1rem;
+            }
+
+            .subtitle {
+                font-size: 0.8rem;
+                padding-left: 0;
+
+                .best {
+                    font-size: 0.8rem;
+                    min-width: 50px;
+                }
+
+                &.men, &.woman {
+                    display: flex;
+                    justify-content: space-between;
+                }
             }
         }
 
