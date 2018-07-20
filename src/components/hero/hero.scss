@@ -8,4 +8,63 @@
     .title, .subtitle {
         color: white !important;
     }
+
+    .hero-body {
+        position: relative;
+    }
+
+    .extraInfo {
+        position: absolute;
+        bottom: 10%;
+        left: 50%;
+        transform: translateX(-50%);
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+
+        .custom {
+            color: white;
+            font-size: 1.5rem;
+            margin-bottom: 10px;
+        }
+
+        .enter {
+            color: white;
+            border: 2px solid #0099cc;
+            padding: 10px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            cursor: pointer;
+            height: 40px;
+            width: 180px;
+            border-radius: 4px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+            transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+
+            &:hover {
+                box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+                transform: translateY(-1px);
+            }
+        }
+    }
+
+    @media screen and (max-width: 768px) {
+        .title {
+            font-size: 1.5rem;
+        }
+
+        .extraInfo {
+            width: 90%; 
+            text-align: center;
+            flex-direction: column-reverse;
+
+            .custom {
+                font-size: 1.1rem;
+                margin-bottom: 0;
+                margin-top: 10px;
+            }
+        }
+    }
 }

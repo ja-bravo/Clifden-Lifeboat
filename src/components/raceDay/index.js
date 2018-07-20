@@ -1,6 +1,6 @@
 import React from 'react';
 import './raceDay.scss';
-import Map from '../map';
+import SocialIcons from '../socialIcons';
 
 const RaceDay = () => (
   <section className="section raceDay" id="raceDay">
@@ -34,6 +34,8 @@ const RaceDay = () => (
 
           <div className="column is-hidden-desktop">
            <a href="https://www.runireland.com/events/clifden-lifeboat-10k-run/" className="enter">Enter online</a>
+
+           <SocialIcons isMobile/>
           </div>
         </div>
       </div>

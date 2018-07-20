@@ -375,6 +375,10 @@
         "license": "MIT",
         "dependencies": [
           {
+            "name": "axios",
+            "version": "^0.18.0"
+          },
+          {
             "name": "bulma",
             "version": "^0.7.1"
           },
@@ -509,12 +513,12 @@
       },
       "pathPrefix": "/test",
       "polyfill": true,
-      "buildTime": "2018-07-18T13:36:31.146Z",
+      "buildTime": "2018-07-20T14:15:25.645Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "82414679743124ca9c4e1ad7d0611310",
+        "contentDigest": "940b6cfad9501b7287125a5b990bc65f",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -535,7 +539,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "89149be5388b67600b72e411d7c783a0",
+        "contentDigest": "63471021d14c97784cc4ef18c2410410",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -556,7 +560,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f2cf37caafef4c55ed35a7ea3410f8cc",
+        "contentDigest": "93b6901407fde693179bbf88c25a809b",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -577,7 +581,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0c7dd3bbec9b354fb5374d98eb0d8206",
+        "contentDigest": "ea319b12ee50ffe4a9a3386531643a6f",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }
@@ -585,7 +589,7 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "c77cbf93815a9071fa5c690b92972183"
+    "PLUGINS_HASH": "0bdd6a30c591553168dc453cd5df70c1"
   },
   "componentDataDependencies": {
     "nodes": {

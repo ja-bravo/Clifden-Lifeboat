@@ -1,0 +1,61 @@
+.socialIcons {
+    position: absolute;
+    right: 30px;
+    top: 11px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 120px;
+
+    a {
+        transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+        position: relative;
+        height: 33px;
+        width: 33px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: white;
+        opacity: 0.5;
+        &:hover {
+            opacity: 1;
+        }
+    }
+
+    &.is-hidden-desktop {
+        position: initial;
+        right: 0;
+        top: 0;
+        margin: 16px auto 0 auto;
+        width: 150px;
+        
+        a {
+            opacity: 0.8;
+        }
+    }
+
+    .mdi {
+        font-size: 22px;
+        transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+
+        height: 100%;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 4px;
+
+
+        &.mdi-facebook-box {
+            background: #3b5998	 !important;
+        }
+
+        &.mdi-twitter-box {
+            background: #1da1f2 !important;
+        }
+
+        &.mdi-instagram {
+            background: #c13584 !important;
+        }
+    }
+}
