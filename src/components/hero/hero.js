@@ -5,7 +5,7 @@ import * as axios from 'axios';
 export default class Hero extends React.Component {
 
   state = {
-    customText: '',
+    customText: null,
   }
   componentWillMount() {
     axios.get('https://clifden10k.jabravo.com/race').then(r => {
@@ -25,7 +25,7 @@ export default class Hero extends React.Component {
           </div>
 
           <div className="extraInfo">
-            <p className="custom">{this.state.customText}</p>
+            <p className={`${this.state.customText ? 'withContent' : ''} custom`}>{this.state.customText}</p>
             <a href="https://www.runireland.com/events/clifden-lifeboat-10k-run/" className="enter">Enter online</a>
           </div>
         </div>
