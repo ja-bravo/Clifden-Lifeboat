@@ -48,6 +48,8 @@ module.exports = class HTML extends React.Component {
 
           <script src="https://cdnjs.cloudflare.com/ajax/libs/zenscroll/4.0.2/zenscroll-min.js"></script>
           <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.42.2/mapbox-gl.js'></script>
+          <script async src="https://www.googletagmanager.com/gtag/js?id=UA-123994969-1"></script>
+
 
           <script>
             zenscroll.setup(null, 42);
