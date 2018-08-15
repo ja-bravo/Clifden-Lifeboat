@@ -1,18 +1,28 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
+      "layout": "index",
+      "jsonName": "dev-404-page.json",
+      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
+      "component": "/Users/jose/Desktop/Clifden-Lifeboat/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin dev-404-page",
+      "pluginCreatorId": "Plugin dev-404-page",
+      "componentPath": "/Users/jose/Desktop/Clifden-Lifeboat/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
+        "contentDigest": "113893b151d22bd9f58a2058eb86a9c3",
+        "description": "Plugin dev-404-page",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin dev-404-page": {
-      "resolve": "/home/jose/Desktop/Projects/Clifden-Lifeboat/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "resolve": "/Users/jose/Desktop/Clifden-Lifeboat/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "id": "Plugin dev-404-page",
       "name": "dev-404-page",
       "version": "1.0.0",
@@ -24,7 +34,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/home/jose/Desktop/Projects/Clifden-Lifeboat/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "pluginFilepath": "/Users/jose/Desktop/Clifden-Lifeboat/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "packageJson": {
         "name": "dev-404-page",
         "description": "Internal plugin to add a 404 page in development with helpful information",
@@ -41,13 +51,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "11a91dbd3b8fd5b2da0ceffbc147f08b",
+        "contentDigest": "eb7de0665fe25791836cb37b3e2f3c2b",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin component-layout-creator": {
-      "resolve": "/home/jose/Desktop/Projects/Clifden-Lifeboat/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "resolve": "/Users/jose/Desktop/Clifden-Lifeboat/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
       "id": "Plugin component-layout-creator",
       "name": "component-layout-creator",
       "version": "1.0.0",
@@ -59,7 +69,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/home/jose/Desktop/Projects/Clifden-Lifeboat/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "pluginFilepath": "/Users/jose/Desktop/Clifden-Lifeboat/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
       "packageJson": {
         "name": "component-layout-creator",
         "description": "An internal Gatsby plugin that creates pages from component files in src/layouts",
@@ -80,13 +90,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "cb92275ac2288d9de5a4fb77fa2a5fd3",
+        "contentDigest": "385fa24b69d4ba8ebdf725cc7771601c",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin internal-data-bridge": {
-      "resolve": "/home/jose/Desktop/Projects/Clifden-Lifeboat/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "resolve": "/Users/jose/Desktop/Clifden-Lifeboat/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "id": "Plugin internal-data-bridge",
       "name": "internal-data-bridge",
       "version": "1.0.0",
@@ -99,7 +109,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/home/jose/Desktop/Projects/Clifden-Lifeboat/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "pluginFilepath": "/Users/jose/Desktop/Clifden-Lifeboat/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "packageJson": {
         "name": "internal-data-bridge",
         "description": "An internal Gatsby plugin which creates data nodes from internal data",
@@ -116,13 +126,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "0c51995ebce6705361b582baf5bb4640",
+        "contentDigest": "3f5c90442061691545bb393f48f9c8d7",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin prod-404": {
-      "resolve": "/home/jose/Desktop/Projects/Clifden-Lifeboat/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "resolve": "/Users/jose/Desktop/Clifden-Lifeboat/node_modules/gatsby/dist/internal-plugins/prod-404",
       "id": "Plugin prod-404",
       "name": "prod-404",
       "version": "1.0.0",
@@ -134,7 +144,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/home/jose/Desktop/Projects/Clifden-Lifeboat/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "pluginFilepath": "/Users/jose/Desktop/Clifden-Lifeboat/node_modules/gatsby/dist/internal-plugins/prod-404",
       "packageJson": {
         "name": "prod-404",
         "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
@@ -151,13 +161,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "b369ac8e44358e900fa9f7bb0854a8ef",
+        "contentDigest": "c4364e93c2b4e8dad303c488b14cf595",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin query-runner": {
-      "resolve": "/home/jose/Desktop/Projects/Clifden-Lifeboat/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "resolve": "/Users/jose/Desktop/Clifden-Lifeboat/node_modules/gatsby/dist/internal-plugins/query-runner",
       "id": "Plugin query-runner",
       "name": "query-runner",
       "version": "1.0.0",
@@ -170,7 +180,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/home/jose/Desktop/Projects/Clifden-Lifeboat/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "pluginFilepath": "/Users/jose/Desktop/Clifden-Lifeboat/node_modules/gatsby/dist/internal-plugins/query-runner",
       "packageJson": {
         "name": "query-runner",
         "description": "Internal plugin for running queries",
@@ -187,13 +197,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "d6e34b34f8e109e43cef1d1bf46e0ada",
+        "contentDigest": "7cf8e8d132dcc9a35dbcf1fbc8b09565",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-react-helmet": {
-      "resolve": "/home/jose/Desktop/Projects/Clifden-Lifeboat/node_modules/gatsby-plugin-react-helmet",
+      "resolve": "/Users/jose/Desktop/Clifden-Lifeboat/node_modules/gatsby-plugin-react-helmet",
       "id": "Plugin gatsby-plugin-react-helmet",
       "name": "gatsby-plugin-react-helmet",
       "version": "2.0.11",
@@ -205,7 +215,7 @@
       "ssrAPIs": [
         "onRenderBody"
       ],
-      "pluginFilepath": "/home/jose/Desktop/Projects/Clifden-Lifeboat/node_modules/gatsby-plugin-react-helmet",
+      "pluginFilepath": "/Users/jose/Desktop/Clifden-Lifeboat/node_modules/gatsby-plugin-react-helmet",
       "packageJson": {
         "name": "gatsby-plugin-react-helmet",
         "description": "Manage document head data with react-helmet. Provides drop-in server rendering support for Gatsby.",
@@ -264,13 +274,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "9ce8ff9bbd540efa8f13ffa5aa1ee1d6",
+        "contentDigest": "1b80b9ecdc7300ab99ebec6c02964ead",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-sass": {
-      "resolve": "/home/jose/Desktop/Projects/Clifden-Lifeboat/node_modules/gatsby-plugin-sass",
+      "resolve": "/Users/jose/Desktop/Clifden-Lifeboat/node_modules/gatsby-plugin-sass",
       "id": "Plugin gatsby-plugin-sass",
       "name": "gatsby-plugin-sass",
       "version": "1.0.19",
@@ -282,7 +292,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/home/jose/Desktop/Projects/Clifden-Lifeboat/node_modules/gatsby-plugin-sass",
+      "pluginFilepath": "/Users/jose/Desktop/Clifden-Lifeboat/node_modules/gatsby-plugin-sass",
       "packageJson": {
         "name": "gatsby-plugin-sass",
         "description": "Gatsby plugin to handle scss/sass files",
@@ -347,23 +357,67 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "1158d23c8449f267c631d864a5beac9c",
+        "contentDigest": "7b596ee7a6e0a10b9d969dc3171de0a6",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-no-sourcemaps": {
+      "resolve": "/Users/jose/Desktop/Clifden-Lifeboat/node_modules/gatsby-plugin-no-sourcemaps",
+      "id": "Plugin gatsby-plugin-no-sourcemaps",
+      "name": "gatsby-plugin-no-sourcemaps",
+      "version": "1.0.5",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "modifyWebpackConfig"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/jose/Desktop/Clifden-Lifeboat/node_modules/gatsby-plugin-no-sourcemaps",
+      "packageJson": {
+        "name": "gatsby-plugin-no-sourcemaps",
+        "description": "Disable sourcemaps when building javascript",
+        "version": "1.0.5",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "sourcemaps",
+          "webpack"
+        ],
+        "author": {
+          "name": "Stuart Taylor",
+          "email": "stuart@freecodecamp.org"
+        },
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "69e130f4714d740ff04aafdb9f598efe",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin default-site-plugin": {
-      "resolve": "/home/jose/Desktop/Projects/Clifden-Lifeboat",
+      "resolve": "/Users/jose/Desktop/Clifden-Lifeboat",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
-      "version": "4830982b9adfd1f8b28ae5ef5d93c211",
+      "version": "0151727549ee49246cf9677b65e3d048",
       "pluginOptions": {
         "plugins": []
       },
       "nodeAPIs": [],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/home/jose/Desktop/Projects/Clifden-Lifeboat",
+      "pluginFilepath": "/Users/jose/Desktop/Clifden-Lifeboat",
       "packageJson": {
         "name": "clifden-10k",
         "description": "Clifden 10k",
@@ -389,6 +443,10 @@
           {
             "name": "gatsby-link",
             "version": "^1.6.40"
+          },
+          {
+            "name": "gatsby-plugin-no-sourcemaps",
+            "version": "^1.0.5"
           },
           {
             "name": "gatsby-plugin-react-helmet",
@@ -420,19 +478,19 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "2bcd6e8af0f8c449de82fc1ed1e58137",
+        "contentDigest": "c338391fd824e3e04cc8f5fab969e411",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-page-creator": {
-      "resolve": "/home/jose/Desktop/Projects/Clifden-Lifeboat/node_modules/gatsby-plugin-page-creator",
+      "resolve": "/Users/jose/Desktop/Clifden-Lifeboat/node_modules/gatsby-plugin-page-creator",
       "id": "Plugin gatsby-plugin-page-creator",
       "name": "gatsby-plugin-page-creator",
       "version": "1.0.1",
       "pluginOptions": {
         "plugins": [],
-        "path": "/home/jose/Desktop/Projects/Clifden-Lifeboat/src/pages",
+        "path": "/Users/jose/Desktop/Clifden-Lifeboat/src/pages",
         "pathCheck": false
       },
       "nodeAPIs": [
@@ -440,7 +498,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/home/jose/Desktop/Projects/Clifden-Lifeboat/node_modules/gatsby-plugin-page-creator",
+      "pluginFilepath": "/Users/jose/Desktop/Clifden-Lifeboat/node_modules/gatsby-plugin-page-creator",
       "packageJson": {
         "name": "gatsby-plugin-page-creator",
         "description": "Gatsby plugin that automatically creates pages from React components in specified directories",
@@ -502,7 +560,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "f05212401a87bb9a00b153b73361ebaf",
+        "contentDigest": "c3ce4ca15537febbff6b977da05cb2b6",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -511,14 +569,16 @@
       "siteMetadata": {
         "title": "Clifden Lifeboat 10k race"
       },
-      "pathPrefix": "/test",
+      "port": "8000",
+      "host": "localhost",
+      "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-07-21T17:56:57.563Z",
+      "buildTime": "2018-08-15T08:11:03.350Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "4cd55fd3fd5ded23ef1ff7c973edfbea",
+        "contentDigest": "b3678ef6856b7719e441f8eab14e14f3",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -528,18 +588,18 @@
       "jsonName": "404.json",
       "internalComponentName": "Component404",
       "path": "/404/",
-      "component": "/home/jose/Desktop/Projects/Clifden-Lifeboat/src/pages/404.js",
+      "component": "/Users/jose/Desktop/Clifden-Lifeboat/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
       "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
       "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/home/jose/Desktop/Projects/Clifden-Lifeboat/src/pages/404.js",
+      "componentPath": "/Users/jose/Desktop/Clifden-Lifeboat/src/pages/404.js",
       "id": "SitePage /404/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "64484aa5a5d0460f07725b64ce817964",
+        "contentDigest": "94aa91b2e5560975663e8603d641b846",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -549,18 +609,18 @@
       "jsonName": "index.json",
       "internalComponentName": "ComponentIndex",
       "path": "/",
-      "component": "/home/jose/Desktop/Projects/Clifden-Lifeboat/src/pages/index.js",
+      "component": "/Users/jose/Desktop/Clifden-Lifeboat/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
       "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
       "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/home/jose/Desktop/Projects/Clifden-Lifeboat/src/pages/index.js",
+      "componentPath": "/Users/jose/Desktop/Clifden-Lifeboat/src/pages/index.js",
       "id": "SitePage /",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b69c072d78506cf226723a0edafeca32",
+        "contentDigest": "60e58df6a326df1346e1cc289286a44f",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -570,18 +630,18 @@
       "jsonName": "404-html.json",
       "internalComponentName": "Component404Html",
       "path": "/404.html",
-      "component": "/home/jose/Desktop/Projects/Clifden-Lifeboat/src/pages/404.js",
+      "component": "/Users/jose/Desktop/Clifden-Lifeboat/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
       "pluginCreator___NODE": "Plugin prod-404",
       "pluginCreatorId": "Plugin prod-404",
-      "componentPath": "/home/jose/Desktop/Projects/Clifden-Lifeboat/src/pages/404.js",
+      "componentPath": "/Users/jose/Desktop/Clifden-Lifeboat/src/pages/404.js",
       "id": "SitePage /404.html",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5151010767928c7fb9ab75b57c1d2365",
+        "contentDigest": "03588910bf92c42d9047ee5103c58d0b",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }
@@ -589,7 +649,7 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "0bdd6a30c591553168dc453cd5df70c1"
+    "PLUGINS_HASH": "e57f29b91872167482378dba2dfcf540"
   },
   "componentDataDependencies": {
     "nodes": {

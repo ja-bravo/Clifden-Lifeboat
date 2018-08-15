@@ -26,7 +26,7 @@ export default class Hero extends React.Component {
 
           <div className="extraInfo">
             <p className={`${this.state.customText ? 'withContent' : ''} custom`}>{this.state.customText}</p>
-            <a href="https://www.runireland.com/events/clifden-lifeboat-10k-run/" className="enter">Enter online</a>
+            <a href="https://www.njuko.net/clifden-lifeboat-10k/select_competition" className="enter">Enter online</a>
           </div>
         </div>
       </section>

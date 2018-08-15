@@ -33,7 +33,7 @@ const RaceDay = () => (
           </div>
 
           <div className="column is-hidden-desktop">
-           <a href="https://www.runireland.com/events/clifden-lifeboat-10k-run/" className="enter">Enter online</a>
+           <a href="https://www.njuko.net/clifden-lifeboat-10k/select_competition" className="enter">Enter online</a>
 
            <SocialIcons isMobile/>
           </div>

@@ -2,6 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'Clifden Lifeboat 10k race',
   },
-  pathPrefix: '/test',
-  plugins: ['gatsby-plugin-react-helmet', 'gatsby-plugin-sass'],
+  plugins: ['gatsby-plugin-react-helmet', 'gatsby-plugin-sass', {
+      resolve: "gatsby-plugin-no-sourcemaps",
+    }],
 }
