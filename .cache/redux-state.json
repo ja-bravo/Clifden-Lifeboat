@@ -1,23 +1,13 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
-      "layout": "index",
-      "jsonName": "dev-404-page.json",
-      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "/Users/jose/Desktop/Clifden-Lifeboat/.cache/dev-404-page.js",
-      "componentChunkName": "component---cache-dev-404-page-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin dev-404-page",
-      "pluginCreatorId": "Plugin dev-404-page",
-      "componentPath": "/Users/jose/Desktop/Clifden-Lifeboat/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "113893b151d22bd9f58a2058eb86a9c3",
-        "description": "Plugin dev-404-page",
+        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
         "owner": "internal-data-bridge"
       }
     },
@@ -569,16 +559,14 @@
       "siteMetadata": {
         "title": "Clifden Lifeboat 10k race"
       },
-      "port": "8000",
-      "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-08-15T08:11:03.350Z",
+      "buildTime": "2018-08-27T07:19:16.388Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "b3678ef6856b7719e441f8eab14e14f3",
+        "contentDigest": "79bf7515874a05013118f63cf35dc3ab",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -599,7 +587,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "94aa91b2e5560975663e8603d641b846",
+        "contentDigest": "399e73800d45a28029fab4cf0faf8834",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -620,7 +608,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "60e58df6a326df1346e1cc289286a44f",
+        "contentDigest": "0d19f6d66a3a03da37da702771f58803",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -641,7 +629,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "03588910bf92c42d9047ee5103c58d0b",
+        "contentDigest": "dac181dc40f2f6974fd155828543a8df",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }

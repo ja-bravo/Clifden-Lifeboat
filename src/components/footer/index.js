@@ -23,11 +23,11 @@ const Footer = () => (
               <a href="http://www.amarach.ie/"><img src={amarach} className="amarach" /></a>
             </div>
 
-            <div className="logo">
+            {/* <div className="logo">
               <p>Developed by</p>
               <a href="https://boonagency.ie/"><img src={boon} className="boon" /></a>
             </div>
-            
+             */}
           </div>
 
         </div>
