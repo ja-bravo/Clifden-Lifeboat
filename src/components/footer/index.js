@@ -18,10 +18,10 @@ const Footer = () => (
           </div>
 
           <div className="sponsor">
-            <div className="logo">
+            {/* <div className="logo">
               <p>Sponsored by</p>
               <a href="http://www.amarach.ie/"><img src={amarach} className="amarach" /></a>
-            </div>
+            </div> */}
 
             {/* <div className="logo">
               <p>Developed by</p>

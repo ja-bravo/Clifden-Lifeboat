@@ -1,0 +1,236 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc49               { /* Common */
+	font            : 18pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	color           : #000000;
+	}
+.cc50               { /* Common */
+	border          :   0.00pt none #0000ff;
+	clip            : rect(0.00pt,743.25pt,15.00pt,0.00pt);
+	}
+.cc51               { /* Common */
+	font            : 10pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc52               { /* Common */
+	font            : bold 22pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	color           : #0000ff;
+	text-align      : center;
+	}
+.cc53               { /* Common */
+	font            : bold 10pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	color           : #0000ff;
+	}
+.cc54               { /* Common */
+	font            : 16pt 'Times New Roman', Book, Georgia, serif;
+	color           : #0000ff;
+	text-align      : center;
+	}
+.cc55               { /* Common */
+	font            : 16pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	color           : #0000ff;
+	}
+span#e27            { /* clifden_10k_new_20120010... */
+	background      : transparent url(clifden_10k_new_2012001014.jpg) no-repeat top left;
+	position        : absolute;
+	left            :   0.00pt;
+	top             :   0.00pt;
+	width           : 171.00pt;
+	height          : 177.75pt;
+	}
+span#e26            { /* clifden_10k_new_20120060... */
+	background      : transparent url(clifden_10k_new_2012006013.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 171.00pt;
+	top             :   0.00pt;
+	width           : 574.50pt;
+	height          : 177.00pt;
+	}
+img#e25             { /* clifden_10k_new_20120060... */
+	position        : absolute;
+	left            :  12.00pt;
+	top             : 183.75pt;
+	width           :  19.50pt;
+	height          :  19.50pt;
+	}
+img#e24             { /* clifden_10k_new_20120060... */
+	position        : absolute;
+	left            : 109.50pt;
+	top             : 183.75pt;
+	width           :  19.50pt;
+	height          :  19.50pt;
+	}
+img#e23             { /* clifden_10k_new_20120060... */
+	position        : absolute;
+	left            : 270.00pt;
+	top             : 181.50pt;
+	width           :  19.50pt;
+	height          :  19.50pt;
+	}
+img#e22             { /* clifden_10k_new_20120060... */
+	position        : absolute;
+	left            : 414.00pt;
+	top             : 180.75pt;
+	width           :  19.50pt;
+	height          :  19.50pt;
+	}
+img#e21             { /* clifden_10k_new_20120060... */
+	position        : absolute;
+	left            : 581.25pt;
+	top             : 180.75pt;
+	width           :  19.50pt;
+	height          :  19.50pt;
+	}
+div#e20             { /* Home */
+	position        : absolute;
+	left            :  34.50pt;
+	top             : 182.25pt;
+	width           :  73.50pt;
+	height          :  23.25pt;
+	}
+div#e19             { /* Event Details */
+	position        : absolute;
+	left            : 136.50pt;
+	top             : 183.00pt;
+	width           : 121.50pt;
+	height          :  22.50pt;
+	}
+div#e18             { /* Registration */
+	position        : absolute;
+	left            : 293.25pt;
+	top             : 180.75pt;
+	width           : 118.50pt;
+	height          :  23.25pt;
+	}
+div#e17             { /* Photo Gallery */
+	position        : absolute;
+	left            : 440.25pt;
+	top             : 180.00pt;
+	width           : 130.50pt;
+	height          :  23.25pt;
+	}
+div#e16             { /* Contact Us */
+	position        : absolute;
+	left            : 605.25pt;
+	top             : 178.50pt;
+	width           : 131.25pt;
+	height          :  23.25pt;
+	}
+span#e15            { /* clifden_10k_new_20120060... */
+	background      : transparent url(clifden_10k_new_2012006007.gif) no-repeat top left;
+	position        : absolute;
+	left            :   0.00pt;
+	top             : 489.75pt;
+	width           : 743.25pt;
+	height          :  15.00pt;
+	}
+div#e14             { /* No matter where you stay... */
+	position        : absolute;
+	left            : 126.00pt;
+	top             : 221.25pt;
+	width           : 516.00pt;
+	height          :  44.25pt;
+	}
+div#e13             { /* Shanaheever Campsite is ... */
+	position        : absolute;
+	left            : 183.75pt;
+	top             : 264.00pt;
+	width           : 384.75pt;
+	height          : 105.00pt;
+	}
+img#e12             { /* clifden_10k_new_20120060... */
+	position        : absolute;
+	left            : 384.75pt;
+	top             : 520.50pt;
+	width           :  15.00pt;
+	height          :  15.00pt;
+	}
+img#e11             { /* clifden_10k_new_20120060... */
+	position        : absolute;
+	left            : 553.50pt;
+	top             : 525.00pt;
+	width           :  15.00pt;
+	height          :  14.25pt;
+	}
+img#e10             { /* clifden_10k_new_20120060... */
+	position        : absolute;
+	left            : 192.00pt;
+	top             : 520.50pt;
+	width           :  15.00pt;
+	height          :  15.00pt;
+	}
+img#e9              { /* clifden_10k_new_20120060... */
+	position        : absolute;
+	left            :  21.00pt;
+	top             : 518.25pt;
+	width           :  14.25pt;
+	height          :  14.25pt;
+	}
+div#e8              { /* Categories */
+	position        : absolute;
+	left            :  41.25pt;
+	top             : 518.25pt;
+	width           :  68.25pt;
+	height          :  15.00pt;
+	}
+div#e7              { /* Race route */
+	position        : absolute;
+	left            : 403.50pt;
+	top             : 522.75pt;
+	width           :  81.75pt;
+	height          :  15.00pt;
+	}
+div#e6              { /* Race Results  */
+	position        : absolute;
+	left            : 573.00pt;
+	top             : 525.00pt;
+	width           :  79.50pt;
+	height          :  15.00pt;
+	}
+div#e5              { /* &nbsp;Race Day */
+	position        : absolute;
+	left            : 209.25pt;
+	top             : 522.00pt;
+	width           :  66.00pt;
+	height          :  15.00pt;
+	}
+div#e4              { /* email: enquiries@clifden... */
+	position        : absolute;
+	left            : 210.00pt;
+	top             : 397.50pt;
+	width           : 324.75pt;
+	height          :  92.25pt;
+	}
+div#e3              { /* Special rates for race e... */
+	position        : absolute;
+	left            : 249.00pt;
+	top             : 348.75pt;
+	width           : 273.00pt;
+	height          :  21.75pt;
+	}
+span#e2             { /* clifden_10k_new_20120060... */
+	background      : transparent url(clifden_10k_new_2012006002.jpg) no-repeat top left;
+	position        : absolute;
+	left            :   6.00pt;
+	top             : 308.25pt;
+	width           : 223.50pt;
+	height          : 168.00pt;
+	}
+span#e1             { /* clifden_10k_new_20120060... */
+	background      : transparent url(clifden_10k_new_2012006001.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 567.75pt;
+	top             : 255.75pt;
+	width           : 161.25pt;
+	height          : 214.50pt;
+	}
+body#page           { /* Page Body */
+	background-color: #4d54d8;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

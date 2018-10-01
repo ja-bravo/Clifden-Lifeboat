@@ -1,0 +1,304 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc22               { /* Common */
+	font            : bold 10pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	color           : #000000;
+	}
+.cc23               { /* Common */
+	font            : bold 12pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	color           : #000000;
+	}
+.cc24               { /* Common */
+	font            : bold 11pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	color           : #000000;
+	text-align      : justify;
+	}
+.cc25               { /* Common */
+	font            : 11pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	color           : #000000;
+	text-align      : justify;
+	}
+.cc26               { /* Common */
+	font            : 11pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	color           : #000000;
+	}
+div#e31             {
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	text-align      : left;
+	position        : absolute;
+	left            :  25.50pt;
+	top             :  -1.50pt;
+	width           : 714.00pt;
+	height          : 738.00pt;
+	}
+div#e30             {
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	text-align      : left;
+	position        : absolute;
+	left            :  27.00pt;
+	top             : 127.50pt;
+	width           : 714.00pt;
+	height          : 217.50pt;
+	}
+div#e29             {
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	text-align      : left;
+	position        : absolute;
+	left            : 729.75pt;
+	top             :   7.50pt;
+	width           :  11.25pt;
+	height          : 112.50pt;
+	}
+div#e28             { /* Home */
+	padding-top     :   3.00pt;
+	position        : absolute;
+	left            :  35.25pt;
+	top             : 143.25pt;
+	width           : 126.75pt;
+	height          :  12.00pt;
+	}
+span#e27            { /* images/album1009012.jpg */
+	border          :   0.00pt none #78cef2;
+	clip            : rect(0.00pt,129.75pt,0.75pt,0.00pt);
+	background      : transparent url(images/album1009012.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  36.75pt;
+	top             : 164.25pt;
+	width           : 129.75pt;
+	height          :   0.75pt;
+	}
+div#e26             { /* About Us */
+	padding-top     :   3.00pt;
+	position        : absolute;
+	left            :  35.25pt;
+	top             : 170.25pt;
+	width           : 126.75pt;
+	height          :  12.00pt;
+	}
+span#e25            { /* images/album1009011.jpg */
+	border          :   0.00pt none #78cef2;
+	clip            : rect(0.00pt,129.75pt,0.75pt,0.00pt);
+	background      : transparent url(images/album1009011.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  36.75pt;
+	top             : 191.25pt;
+	width           : 129.75pt;
+	height          :   0.75pt;
+	}
+div#e24             { /* Registration */
+	padding-top     :   2.25pt;
+	position        : absolute;
+	left            :  35.25pt;
+	top             : 197.25pt;
+	width           : 126.75pt;
+	height          :  12.00pt;
+	}
+span#e23            { /* images/album1009010.jpg */
+	border          :   0.00pt none #78cef2;
+	clip            : rect(0.00pt,129.75pt,0.75pt,0.00pt);
+	background      : transparent url(images/album1009010.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  36.75pt;
+	top             : 218.25pt;
+	width           : 129.75pt;
+	height          :   0.75pt;
+	}
+div#e22             { /* Race Day */
+	padding-top     :   2.25pt;
+	position        : absolute;
+	left            :  35.25pt;
+	top             : 224.25pt;
+	width           : 126.75pt;
+	height          :  12.00pt;
+	}
+span#e21            { /* images/album1009009.jpg */
+	border          :   0.00pt none #78cef2;
+	clip            : rect(0.00pt,129.75pt,0.75pt,0.00pt);
+	background      : transparent url(images/album1009009.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  36.75pt;
+	top             : 245.25pt;
+	width           : 129.75pt;
+	height          :   0.75pt;
+	}
+div#e20             { /* Contact Us */
+	padding-top     :   3.00pt;
+	position        : absolute;
+	left            :  37.50pt;
+	top             : 279.00pt;
+	width           : 126.75pt;
+	height          :  12.00pt;
+	}
+span#e19            { /* images/album1009008.jpg */
+	border          :   0.00pt none #78cef2;
+	clip            : rect(0.00pt,129.75pt,0.75pt,0.00pt);
+	background      : transparent url(images/album1009008.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  36.75pt;
+	top             : 272.25pt;
+	width           : 129.75pt;
+	height          :   0.75pt;
+	}
+span#e18            { /* images/album1001012.gif */
+	background      : transparent url(images/album1001012.gif) no-repeat top left;
+	position        : absolute;
+	left            : 479.25pt;
+	top             : 157.50pt;
+	width           : 255.00pt;
+	height          : 184.50pt;
+	}
+h6#e17              { /* Follow us on Facebook   ... */
+	position        : absolute;
+	left            :  30.00pt;
+	top             : 747.00pt;
+	width           : 711.75pt;
+	height          :  18.00pt;
+	}
+div#e16             {
+	text-align      : left;
+	position        : absolute;
+	left            : 383.25pt;
+	top             : 633.75pt;
+	width           : 328.50pt;
+	height          :  12.00pt;
+	}
+span#e15            { /* images/album1009007.jpg */
+	background      : transparent url(images/album1009007.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 124.50pt;
+	top             :   0.00pt;
+	width           : 616.50pt;
+	height          : 129.75pt;
+	}
+span#e14            { /* images/album1009006.jpg */
+	background      : transparent url(images/album1009006.jpg) no-repeat top left;
+	position        : absolute;
+	left            :   0.75pt;
+	top             :   0.00pt;
+	width           : 122.25pt;
+	height          : 129.00pt;
+	}
+div#e13             { /* &gt;&gt; */
+	font            : bold 12pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	text-align      : left;
+	position        : absolute;
+	left            : 571.50pt;
+	top             : 366.75pt;
+	width           :  21.00pt;
+	height          :  15.00pt;
+	}
+a#a13               { /* &gt;&gt; */
+	font            : bold 12pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	}
+div#e12             { /* Official Campsite */
+	position        : absolute;
+	left            : 600.00pt;
+	top             : 364.50pt;
+	width           : 114.75pt;
+	height          :  15.00pt;
+	}
+div#e11             { /* Categories  */
+	position        : absolute;
+	left            :  51.00pt;
+	top             : 361.50pt;
+	width           : 141.00pt;
+	height          :  32.25pt;
+	}
+div#e10             { /* The race is open to all ... */
+	position        : absolute;
+	left            :  42.75pt;
+	top             : 385.50pt;
+	width           : 365.25pt;
+	height          : 162.00pt;
+	}
+div#e9              { /* &nbsp;&nbsp;&nbsp;&nbsp;... */
+	position        : absolute;
+	left            :  41.25pt;
+	top             : 533.25pt;
+	width           : 253.50pt;
+	height          : 177.75pt;
+	}
+div#e8              { /* Run/Walk:\ \For those wh... */
+	position        : absolute;
+	left            : 474.75pt;
+	top             : 593.25pt;
+	width           : 251.25pt;
+	height          : 110.25pt;
+	}
+div#e7              { /* Run:\ \Ideal for those w... */
+	position        : absolute;
+	left            : 472.50pt;
+	top             : 483.75pt;
+	width           : 237.00pt;
+	height          :  83.25pt;
+	}
+span#e6             { /* images/album1009005.jpg */
+	border          :   0.00pt none #ffffff;
+	background      : transparent url(images/album1009005.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 315.00pt;
+	top             : 546.00pt;
+	width           : 147.75pt;
+	height          : 168.75pt;
+	}
+span#e5             { /* images/album1009004.jpg */
+	border          :   0.00pt none #ffffff;
+	background      : transparent url(images/album1009004.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 437.25pt;
+	top             : 351.75pt;
+	width           : 110.25pt;
+	height          : 128.25pt;
+	}
+span#e4             { /* images/album1009003.jpg */
+	border          :   0.00pt none #ffffff;
+	background      : transparent url(images/album1009003.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 594.00pt;
+	top             : 384.00pt;
+	width           : 121.50pt;
+	height          :  99.75pt;
+	}
+span#e3             { /* images/album1009002.jpg */
+	background      : transparent url(images/album1009002.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 603.75pt;
+	top             : 393.75pt;
+	width           : 104.25pt;
+	height          :  81.75pt;
+	}
+span#e2             { /* images/album1009001.jpg */
+	background      : transparent url(images/album1009001.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 175.50pt;
+	top             : 129.75pt;
+	width           : 300.00pt;
+	height          : 215.25pt;
+	}
+div#e1              { /* Race Route */
+	padding-top     :   2.25pt;
+	position        : absolute;
+	left            :  36.75pt;
+	top             : 251.25pt;
+	width           : 126.75pt;
+	height          :  12.00pt;
+	}
+div#page            { /* Page Holder */
+	background-image: url(images/blueer0001.gif);
+	position        : relative;
+	width           : 768.00pt;
+	height          : 787.50pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : auto;
+	}
+
+
+
+/*--- EndOfFile ---*/

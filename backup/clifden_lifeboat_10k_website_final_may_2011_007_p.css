@@ -1,0 +1,292 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc34               { /* Common */
+	font            : 10pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	color           : #c0c0c0;
+	}
+.cc35               { /* Common */
+	font            : bold 10pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	color           : #c0c0c0;
+	}
+.cc36               { /* Common */
+	border          :   0.00pt none #0000ff;
+	}
+.cc37               { /* Common */
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	color           : #333333;
+	}
+.cc38               { /* Common */
+	font            : italic bold 12pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	color           : #800000;
+	}
+h5#e34              {
+	font            : 1pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	text-align      : left;
+	position        : absolute;
+	left            :  99.75pt;
+	top             :  43.50pt;
+	width           :  24.75pt;
+	height          :   3.00pt;
+	}
+span#e33            { /* clifden_lifeboat_10k_web... */
+	clip            : rect(0.00pt,23.25pt,10.50pt,0.00pt);
+	background      : transparent url(clifden_lifeboat_10k_website_final_may_2011001014.gif) no-repeat top left;
+	position        : absolute;
+	left            :   0.00pt;
+	top             :   0.00pt;
+	width           :  23.25pt;
+	height          :  10.50pt;
+	}
+h2#e32              {
+	font            : 3pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	text-align      : left;
+	position        : absolute;
+	left            : 195.00pt;
+	top             : 189.75pt;
+	width           :  84.75pt;
+	height          :   6.75pt;
+	}
+span#e31            { /* clifden_lifeboat_10k_web... */
+	background      : transparent url(clifden_lifeboat_10k_website_final_may_2011001013.jpg) no-repeat top left;
+	position        : absolute;
+	left            :   0.00pt;
+	top             :   0.00pt;
+	width           : 105.00pt;
+	height          : 134.25pt;
+	}
+h4#e30              {
+	font            : bold 18pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	color           : #800000;
+	text-align      : left;
+	position        : absolute;
+	left            : 207.00pt;
+	top             : 163.50pt;
+	width           : 128.25pt;
+	height          :  24.00pt;
+	}
+span#e29            { /* clifden_lifeboat_10k_web... */
+	background      : transparent url(clifden_lifeboat_10k_website_final_may_2011007010.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 105.00pt;
+	top             :   0.00pt;
+	width           : 640.50pt;
+	height          : 135.00pt;
+	}
+h4#e28              { /* On Race Day:  */
+	font            : bold 16pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	color           : #800000;
+	text-align      : left;
+	position        : absolute;
+	left            : 356.25pt;
+	top             : 165.00pt;
+	width           : 198.00pt;
+	height          :  24.00pt;
+	}
+div#e27             { /* Registration will take p... */
+	position        : absolute;
+	left            : 309.00pt;
+	top             : 192.75pt;
+	width           : 417.00pt;
+	height          :  62.25pt;
+	}
+span#e26            { /* clifden_lifeboat_10k_web... */
+	background      : transparent url(clifden_lifeboat_10k_website_final_may_2011007009.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  18.75pt;
+	top             : 172.50pt;
+	width           : 270.00pt;
+	height          : 168.75pt;
+	}
+div#e25             { /* The race will begin at 2... */
+	font            : 10pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	color           : #c0c0c0;
+	text-align      : left;
+	position        : absolute;
+	left            : 309.75pt;
+	top             : 278.25pt;
+	width           : 310.50pt;
+	height          :  79.50pt;
+	}
+h6#e24              { /* There will be 2 water st... */
+	font            : 10pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	color           : #c0c0c0;
+	text-align      : left;
+	position        : absolute;
+	left            : 312.00pt;
+	top             : 318.00pt;
+	width           : 403.50pt;
+	height          :  65.25pt;
+	}
+div#e23             { /* Shower and changing faci... */
+	position        : absolute;
+	left            : 312.00pt;
+	top             : 351.00pt;
+	width           : 345.00pt;
+	height          :  35.25pt;
+	}
+div#e22             { /* Public car Parking is av... */
+	position        : absolute;
+	left            :  27.75pt;
+	top             : 360.75pt;
+	width           : 174.75pt;
+	height          :  18.00pt;
+	}
+div#e21             { /* Beside the Station House... */
+	position        : absolute;
+	left            :  26.25pt;
+	top             : 383.25pt;
+	width           : 407.25pt;
+	height          :  62.25pt;
+	}
+div#e20             { /* Public toilets are avail... */
+	position        : absolute;
+	left            :  27.75pt;
+	top             : 450.75pt;
+	width           : 245.25pt;
+	height          :  18.75pt;
+	}
+div#e19             { /* The coach park, across f... */
+	position        : absolute;
+	left            :  26.25pt;
+	top             : 471.00pt;
+	width           : 351.75pt;
+	height          :  34.50pt;
+	}
+div#e18             { /* In Supervalue, on The Sq... */
+	position        : absolute;
+	left            :  27.00pt;
+	top             : 483.75pt;
+	width           : 396.00pt;
+	height          :  38.25pt;
+	}
+span#e17            { /* clifden_lifeboat_10k_web... */
+	background      : transparent url(clifden_lifeboat_10k_website_final_may_2011007008.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 434.25pt;
+	top             : 373.50pt;
+	width           : 285.75pt;
+	height          : 190.50pt;
+	}
+img#e16             { /* clifden_lifeboat_10k_web... */
+	position        : absolute;
+	left            :   4.50pt;
+	top             : 138.75pt;
+	width           :  52.50pt;
+	height          :  21.00pt;
+	}
+img#e15             { /* clifden_lifeboat_10k_web... */
+	position        : absolute;
+	left            :  67.50pt;
+	top             : 138.75pt;
+	width           :  57.75pt;
+	height          :  20.25pt;
+	}
+img#e14             { /* clifden_lifeboat_10k_web... */
+	position        : absolute;
+	left            : 276.75pt;
+	top             : 139.50pt;
+	width           :  58.50pt;
+	height          :  21.00pt;
+	}
+img#e13             { /* clifden_lifeboat_10k_web... */
+	position        : absolute;
+	left            : 345.75pt;
+	top             : 139.50pt;
+	width           :  53.25pt;
+	height          :  21.00pt;
+	}
+img#e12             { /* clifden_lifeboat_10k_web... */
+	position        : absolute;
+	left            : 408.75pt;
+	top             : 140.25pt;
+	width           :  40.50pt;
+	height          :  19.50pt;
+	}
+div#e11             { /* &nbsp;&nbsp;Home  */
+	position        : absolute;
+	left            :   3.00pt;
+	top             : 139.50pt;
+	width           :  54.00pt;
+	height          :  19.50pt;
+	}
+div#e10             { /* &nbsp;Background */
+	position        : absolute;
+	left            :  69.00pt;
+	top             : 138.75pt;
+	width           :  56.25pt;
+	height          :  20.25pt;
+	}
+img#e9              { /* clifden_lifeboat_10k_web... */
+	position        : absolute;
+	left            : 138.75pt;
+	top             : 140.25pt;
+	width           :  48.00pt;
+	height          :  20.25pt;
+	}
+div#e8              { /* Categories */
+	position        : absolute;
+	left            : 138.00pt;
+	top             : 140.25pt;
+	width           :  48.75pt;
+	height          :  19.50pt;
+	}
+img#e7              { /* clifden_lifeboat_10k_web... */
+	position        : absolute;
+	left            : 203.25pt;
+	top             : 140.25pt;
+	width           :  63.75pt;
+	height          :  21.00pt;
+	}
+div#e6              { /* &nbsp;On Race Day */
+	position        : absolute;
+	left            : 202.50pt;
+	top             : 140.25pt;
+	width           :  63.75pt;
+	height          :  21.75pt;
+	}
+div#e5              { /* Race Reports */
+	position        : absolute;
+	left            : 276.75pt;
+	top             : 139.50pt;
+	width           :  60.00pt;
+	height          :  21.75pt;
+	}
+div#e4              { /* Contact Us */
+	position        : absolute;
+	left            : 346.50pt;
+	top             : 139.50pt;
+	width           :  52.50pt;
+	height          :  21.00pt;
+	}
+div#e3              { /* Photos */
+	position        : absolute;
+	left            : 408.00pt;
+	top             : 140.25pt;
+	width           :  41.25pt;
+	height          :  19.50pt;
+	}
+div#e2              { /* Race Route */
+	position        : absolute;
+	left            : 323.25pt;
+	top             : 546.00pt;
+	width           :  99.00pt;
+	height          :  15.00pt;
+	}
+div#e1              { /* Where to Stay */
+	position        : absolute;
+	left            :  47.25pt;
+	top             : 540.75pt;
+	width           : 138.00pt;
+	height          :  19.50pt;
+	}
+body#page           { /* Page Body */
+	background-image: url(texture-3.jpg);
+	overflow        : auto;
+	}
+
+
+
+/*--- EndOfFile ---*/

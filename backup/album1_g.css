@@ -1,0 +1,272 @@
+/*--- Avanquest WebEasy Document Style ---*/
+
+*                   { /* All Elements */
+	margin          : 0px;
+	padding         : 0px;
+	}
+a:link              { /* Document Style */
+	text-decoration :none;
+	}
+a:visited           { /* Document Style */
+	text-decoration :none;
+	}
+a:hover             { /* Document Style */
+	text-decoration :underline;
+	}
+a:active            { /* Active Links */
+	color           : #ff0000;
+	}
+ol,ul               { /* All Lists */
+	margin          : 1em;
+	padding-left    : 2em;
+	}
+p                   { /* All Paragraphs */
+	margin-bottom   : 1em;
+	}
+p a                 {
+	background-color: transparent;
+	border          : 0px;
+	padding         : 0px;
+	}
+a.navigation:link   {
+	text-decoration :none;
+	}
+a.navigation:visited{
+	text-decoration :none;
+	}
+a.navigation:hover  {
+	text-decoration :underline;
+	}
+table.ct07          { /* Document Style */
+	color           : #0fa7e7;
+	font            : 8pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	background-color: #e5e5e5;
+	text-align      : center;
+	border          :   0.75pt solid #ffffff;
+	width           : 250px;
+	height          : 150px;
+	border-spacing  : 0px;
+	table-layout    : auto;
+	empty-cells     : show;
+	}
+table.ct07 caption  { /* Document Style */
+	color           : #000000;
+	font-weight     : bold;
+	}
+table.ct07 td       { /* Document Style */
+	color           : #0fa7e7;
+	font            : 8pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	text-align      : left;
+	border          :   0.75pt solid #ffffff;
+	padding         :   1.50pt;
+	white-space     : nowrap;
+	vertical-align  : middle;
+	}
+table.ct07 th       { /* Document Style */
+	color           : #0fa7e7;
+	font            : 8pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	background-color: #990000;
+	text-align      : left;
+	border          :   0.75pt solid #ffffff;
+	padding         :   1.50pt;
+	white-space     : nowrap;
+	vertical-align  : middle;
+	}
+table.ct07 .ch07 th { /* Document Style */
+	color           : #000000;
+	font            : bold 8pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	background-color: #0fa7e7;
+	text-align      : left;
+	border          :   0.75pt solid #ffffff;
+	padding         :   1.50pt;
+	white-space     : nowrap;
+	vertical-align  : middle;
+	}
+.address,address    {
+	color           : #e72d97;
+	font            : bold 10pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	text-align      : right;
+	}
+.citation,cite      {
+	font            : italic 10pt 'Arial', Helvetica, sans-serif;
+	}
+.code,code          {
+	font            : 10pt 'Courier New', monospace;
+	}
+.deco               {
+	color           : #78cef2;
+	background-color: #78cef2;
+	}
+.emphasis,em        {
+	font            : bold 10pt 'Arial', Helvetica, sans-serif;
+	}
+.footer             {
+	color           : #e72d97;
+	font            : bold 8pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	text-align      : left;
+	}
+.footer a           {
+	background-color: transparent;
+	border          : 0px;
+	padding         : 0px;
+	}
+.footer_box         {
+	background-color: #c0c0c0;
+	}
+.form_button        {
+	color           : #000000;
+	font            : 10pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	}
+.form_input         {
+	border          :   0.75pt solid black;
+	}
+.form_label         {
+	color           : #000000;
+	font            : 8pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	text-align      : left;
+	}
+.form_legend        {
+	color           : #000000;
+	}
+.form_set           {
+	border          :   0.75pt solid black;
+	}
+.header             {
+	font            : bold 20pt 'Arial', Helvetica, sans-serif;
+	}
+.header_box         {
+	background-color: #c0c0c0;
+	}
+.heading1,h1        {
+	font            : 22pt 'Arial', Helvetica, sans-serif;
+	}
+.heading2,h2        {
+	font            : 20pt 'Arial', Helvetica, sans-serif;
+	}
+.heading3,h3        {
+	font            : 18pt 'Arial', Helvetica, sans-serif;
+	}
+.heading4,h4        {
+	font            : 14pt 'Arial', Helvetica, sans-serif;
+	}
+.heading5,h5        {
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	}
+.heading6,h6        {
+	font            : bold 10pt 'Arial', Helvetica, sans-serif;
+	}
+.info               {
+	color           : #000000;
+	font            : 8pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	}
+.info a             {
+	background-color: transparent;
+	border          : 0px;
+	padding         : 0px;
+	}
+.info_box           {
+	background-color: #c0c0c0;
+	}
+.info_tag           {
+	}
+.item               {
+	color           : #16a9e8;
+	font            : bold 8pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	}
+.item a             {
+	background-color: transparent;
+	border          : 0px;
+	padding         : 0px;
+	}
+.item_box           {
+	color           : #f00093;
+	background-color: #f00093;
+	}
+.item_tag           {
+	}
+.logo               {
+	color           : #c0c0c0;
+	background-color: #c0c0c0;
+	}
+.logo_box           {
+	background-color: #c0c0c0;
+	}
+.logo_tag           {
+	}
+.navigation         {
+	color           : #000000;
+	font            : 9pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	text-align      : left;
+	padding         :   1.50pt;
+	}
+.navigation a       {
+	background-color: transparent;
+	border          : 0px;
+	padding         : 0px;
+	}
+.navigation_box     {
+	color           : #0fa7e7;
+	background-color: #0fa7e7;
+	}
+.navigation_pin     {
+	color           : #ffffff;
+	font            : 9pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	text-align      : left;
+	padding         :   1.50pt;
+	}
+.navigation_pin a   {
+	background-color: transparent;
+	border          : 0px;
+	padding         : 0px;
+	}
+.navigation_tag     {
+	}
+.news               {
+	}
+.news_box           {
+	background-color: #c0c0c0;
+	}
+.news_tag           {
+	}
+.page               {
+	background-color: #ffffff;
+	}
+.page_box           {
+	color           : #ffffff;
+	background-color: #ffffff;
+	border          :   1.50pt solid #0fa7e7;
+	}
+.page_tag           {
+	color           : #000000;
+	font            : 12pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	}
+.panel              {
+	color           : #000000;
+	}
+.panel_box          {
+	background-color: #c0c0c0;
+	}
+.photo              {
+	background-color: #c0c0c0;
+	}
+.photo_box          {
+	color           : #ffffff;
+	background-color: #ffffff;
+	border          :   3.00pt solid #ffffff;
+	}
+.photo_tag          {
+	color           : #62c5ef;
+	font            : 8pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	}
+.small,small        {
+	color           : #000000;
+	font            : 10pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	}
+.small a            {
+	background-color: transparent;
+	border          : 0px;
+	padding         : 0px;
+	}
+
+
+/*--- EndOfFile ---*/
