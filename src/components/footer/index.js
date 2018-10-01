@@ -1,7 +1,5 @@
 import React from 'react';
 import './footer.scss';
-import amarach from '../../images/amarach.jpg';
-import boon from '../../images/boon.jpg';
 
 const Footer = () => (
   <section className="section footer">
@@ -16,20 +14,6 @@ const Footer = () => (
               <span><span className="mdi mdi-email" /> <a href="mailto:info@clifden10.com">info@clifden10.com</a></span>
             </div>
           </div>
-
-          <div className="sponsor">
-            {/* <div className="logo">
-              <p>Sponsored by</p>
-              <a href="http://www.amarach.ie/"><img src={amarach} className="amarach" /></a>
-            </div> */}
-
-            {/* <div className="logo">
-              <p>Developed by</p>
-              <a href="https://boonagency.ie/"><img src={boon} className="boon" /></a>
-            </div>
-             */}
-          </div>
-
         </div>
 
         <div className="column right">

@@ -31,32 +31,6 @@
 
             }
         }
-
-        .sponsor {
-            display: flex;
-            justify-content: center;
-            align-items: center;    
-
-            .logo {
-                margin-left: 80px;
-                p {
-                    font-size: 8px;
-                    text-align: center;
-                    margin-bottom: 5px;
-                }
-
-                img {
-                    cursor: pointer;
-                    height: 41px;
-                    border-radius: 2px;
-                    transition: all 0.3s cubic-bezier(.25,.8,.25,1);
-
-                    &:hover {
-                        transform: translateY(-1px);
-                    }
-                }
-            }
-        }
     }
 
     .right {
