@@ -1,0 +1,315 @@
+/*--- Avanquest WebEasy Document Style ---*/
+
+*                   { /* All Elements */
+	margin          : 0px;
+	padding         : 0px;
+	}
+a:link              { /* Document Style */
+	text-decoration :none;
+	}
+a:visited           { /* Document Style */
+	text-decoration :none;
+	}
+a:hover             { /* Document Style */
+	text-decoration :underline;
+	}
+a:active            { /* Active Links */
+	color           : #ff0000;
+	}
+ol,ul               { /* All Lists */
+	margin          : 1em;
+	padding-left    : 2em;
+	}
+p                   { /* All Paragraphs */
+	margin-bottom   : 1em;
+	}
+p a                 {
+	background-color: transparent;
+	border          : 0px;
+	padding         : 0px;
+	}
+a.navigation:link   {
+	text-decoration :none;
+	}
+a.navigation:visited{
+	text-decoration :none;
+	}
+a.navigation:hover  {
+	text-decoration :underline;
+	}
+table.ct07          { /* Document Style */
+	text-align      : center;
+	border          :   0.75pt solid black;
+	}
+table.ct07 caption  { /* Document Style */
+	color           : #000000;
+	}
+table.ct07 td       { /* Document Style */
+	text-align      : right;
+	border          :   0.75pt solid black;
+	padding         :   1.50pt;
+	white-space     : nowrap;
+	vertical-align  : middle;
+	}
+table.ct07 th       { /* Document Style */
+	background-color: #c0c0c0;
+	text-align      : left;
+	border          :   0.75pt solid black;
+	padding         :   1.50pt;
+	white-space     : nowrap;
+	vertical-align  : middle;
+	}
+table.ct07 .ch07 th { /* Document Style */
+	background-color: #c0c0c0;
+	text-align      : left;
+	border          :   0.75pt solid black;
+	padding         :   1.50pt;
+	white-space     : nowrap;
+	vertical-align  : middle;
+	}
+.address,address    {
+	color           : #333333;
+	font            : 8pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	}
+.address a          {
+	background-color: transparent;
+	border          : 0px;
+	padding         : 0px;
+	}
+.citation,cite      {
+	font            : italic 10pt 'Arial', Helvetica, sans-serif;
+	}
+.code,code          {
+	font            : 10pt 'Courier New', monospace;
+	}
+.deco               {
+	color           : #cc0033;
+	font            : 10pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	background-color: #cc0033;
+	}
+.deco a             {
+	background-color: transparent;
+	border          : 0px;
+	padding         : 0px;
+	}
+.emphasis,em        {
+	font            : bold 10pt 'Arial', Helvetica, sans-serif;
+	}
+.footer             {
+	text-align      : center;
+	}
+.footer_box         {
+	background-color: #c0c0c0;
+	}
+.form_button        {
+	color           : #003333;
+	font            : 8pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	background-color: transparent;
+	padding         :   1.50pt;
+	}
+.form_input         {
+	color           : #333333;
+	font            : 8pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	text-align      : left;
+	border          :   0.75pt solid black;
+	}
+.form_label         {
+	color           : #333333;
+	font            : 8pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	background-color: transparent;
+	text-align      : left;
+	}
+.form_legend        {
+	color           : #000000;
+	}
+.form_set           {
+	background-color: transparent;
+	}
+.header             {
+	font            : bold 20pt 'Arial', Helvetica, sans-serif;
+	}
+.header_box         {
+	background-color: #c0c0c0;
+	}
+.heading1,h1        {
+	color           : #ffffff;
+	font            : 22pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	background-color: transparent;
+	text-align      : right;
+	}
+.heading2,h2        {
+	font            : 20pt 'Arial', Helvetica, sans-serif;
+	}
+.heading3,h3        {
+	font            : 18pt 'Arial', Helvetica, sans-serif;
+	}
+.heading4,h4        {
+	font            : 14pt 'Arial', Helvetica, sans-serif;
+	}
+.heading5,h5        {
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	}
+.heading6,h6        {
+	color           : #3399ff;
+	font            : bold 10pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	background-color: transparent;
+	text-align      : left;
+	}
+.info               {
+	color           : #333333;
+	font            : 8pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	background-color: transparent;
+	text-align      : left;
+	padding         :   1.50pt;
+	}
+.info a             {
+	background-color: transparent;
+	border          : 0px;
+	padding         : 0px;
+	}
+.info_box           {
+	background-color: #c0c0c0;
+	}
+.info_tag           {
+	}
+.item               {
+	color           : #ffffff;
+	font            : 8pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	background-color: transparent;
+	padding         :   1.50pt;
+	}
+.item a             {
+	background-color: transparent;
+	border          : 0px;
+	padding         : 0px;
+	}
+.item_box           {
+	color           : #000000;
+	background-color: #000000;
+	}
+.item_tag           {
+	color           : #3399ff;
+	font            : 10pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	text-align      : left;
+	}
+.item_tag a         {
+	background-color: transparent;
+	border          : 0px;
+	padding         : 0px;
+	}
+.logo               {
+	color           : #333333;
+	font            : 28pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	background-color: transparent;
+	text-align      : left;
+	}
+.logo_box           {
+	color           : #fe5b85;
+	background-color: #fe5b85;
+	border          :   0.75pt solid #fe5b85;
+	}
+.logo_tag           {
+	color           : #3399ff;
+	font            : 10pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	background-color: transparent;
+	}
+.navigation         {
+	color           : #ffffff;
+	font            : 8pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	background-color: transparent;
+	text-align      : center;
+	padding         :   1.50pt;
+	}
+.navigation a       {
+	background-color: transparent;
+	border          : 0px;
+	padding         : 0px;
+	}
+.navigation_box     {
+	color           : #999999;
+	font            : 10pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	background-color: #999999;
+	}
+.navigation_box a   {
+	background-color: transparent;
+	border          : 0px;
+	padding         : 0px;
+	}
+.navigation_pin     {
+	color           : #cc0033;
+	font            : 8pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	background-color: transparent;
+	text-align      : center;
+	padding         :   1.50pt;
+	}
+.navigation_pin a   {
+	background-color: transparent;
+	border          : 0px;
+	padding         : 0px;
+	}
+.navigation_tag     {
+	}
+.news               {
+	color           : #333333;
+	font            : 8pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	background-color: transparent;
+	text-align      : left;
+	padding         :   1.50pt;
+	}
+.news a             {
+	background-color: transparent;
+	border          : 0px;
+	padding         : 0px;
+	}
+.news_box           {
+	color           : #eeeeee;
+	background-color: #eeeeee;
+	}
+.news_box a         {
+	background-color: transparent;
+	border          : 0px;
+	padding         : 0px;
+	}
+.news_tag           {
+	color           : #ffffff;
+	font            : bold 10pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	background-color: transparent;
+	text-align      : center;
+	}
+.page               {
+	color           : #c0c0c0;
+	background-color: #c0c0c0;
+	}
+.page_box           {
+	color           : #ffffff;
+	background-color: #ffffff;
+	}
+.page_tag           {
+	color           : #cc0033;
+	font            : bold 10pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	text-align      : left;
+	}
+.panel              {
+	color           : #cc0033;
+	font            : 8pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	background-color: transparent;
+	padding         :   1.50pt;
+	}
+.panel_box          {
+	color           : #ffffff;
+	background-color: #ffffff;
+	}
+.photo              {
+	border          :   0.75pt solid black;
+	}
+.photo_box          {
+	background-color: #c0c0c0;
+	}
+.photo_tag          {
+	}
+.small,small        {
+	font            : 8pt 'Arial', Helvetica, sans-serif;
+	}
+
+
+/*--- EndOfFile ---*/

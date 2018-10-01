@@ -1,0 +1,328 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc14               { /* Common */
+	font            : 11pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	color           : #000000;
+	text-align      : justify;
+	}
+div#e36             {
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	text-align      : left;
+	position        : absolute;
+	left            :  25.50pt;
+	top             :  -1.50pt;
+	width           : 714.00pt;
+	height          : 738.00pt;
+	}
+div#e35             {
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	text-align      : left;
+	position        : absolute;
+	left            :  27.00pt;
+	top             : 127.50pt;
+	width           : 714.00pt;
+	height          : 217.50pt;
+	}
+div#e34             {
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	text-align      : left;
+	position        : absolute;
+	left            : 729.75pt;
+	top             :   7.50pt;
+	width           :  11.25pt;
+	height          : 112.50pt;
+	}
+address#e33         { /* {enter phone} */
+	position        : absolute;
+	left            : 522.75pt;
+	top             :  82.50pt;
+	width           : 204.75pt;
+	height          :  20.25pt;
+	}
+div#e32             { /* Home */
+	padding-top     :   3.00pt;
+	position        : absolute;
+	left            :  35.25pt;
+	top             : 143.25pt;
+	width           : 126.75pt;
+	height          :  12.00pt;
+	}
+span#e31            { /* images/album1005016.jpg */
+	border          :   0.00pt none #78cef2;
+	clip            : rect(0.00pt,129.75pt,0.75pt,0.00pt);
+	background      : transparent url(images/album1005016.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  36.75pt;
+	top             : 164.25pt;
+	width           : 129.75pt;
+	height          :   0.75pt;
+	}
+div#e30             { /* About Us */
+	padding-top     :   3.00pt;
+	position        : absolute;
+	left            :  35.25pt;
+	top             : 170.25pt;
+	width           : 126.75pt;
+	height          :  12.00pt;
+	}
+span#e29            { /* images/album1005015.jpg */
+	border          :   0.00pt none #78cef2;
+	clip            : rect(0.00pt,129.75pt,0.75pt,0.00pt);
+	background      : transparent url(images/album1005015.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  36.75pt;
+	top             : 191.25pt;
+	width           : 129.75pt;
+	height          :   0.75pt;
+	}
+div#e28             { /* Race Day */
+	padding-top     :   2.25pt;
+	position        : absolute;
+	left            :  36.75pt;
+	top             : 225.75pt;
+	width           : 126.75pt;
+	height          :  12.00pt;
+	}
+span#e27            { /* images/album1005014.jpg */
+	border          :   0.00pt none #78cef2;
+	clip            : rect(0.00pt,129.75pt,0.75pt,0.00pt);
+	background      : transparent url(images/album1005014.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  36.75pt;
+	top             : 218.25pt;
+	width           : 129.75pt;
+	height          :   0.75pt;
+	}
+div#e26             { /* Race Route */
+	padding-top     :   2.25pt;
+	position        : absolute;
+	left            :  35.25pt;
+	top             : 251.25pt;
+	width           : 126.75pt;
+	height          :  12.00pt;
+	}
+span#e25            { /* images/album1005013.jpg */
+	border          :   0.00pt none #78cef2;
+	clip            : rect(0.00pt,129.75pt,0.75pt,0.00pt);
+	background      : transparent url(images/album1005013.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  36.75pt;
+	top             : 245.25pt;
+	width           : 129.75pt;
+	height          :   0.75pt;
+	}
+div#e24             { /* Contact Us */
+	padding-top     :   3.00pt;
+	position        : absolute;
+	left            :  36.75pt;
+	top             : 277.50pt;
+	width           : 126.75pt;
+	height          :  12.00pt;
+	}
+span#e23            { /* images/album1005012.jpg */
+	border          :   0.00pt none #78cef2;
+	clip            : rect(0.00pt,129.75pt,0.75pt,0.00pt);
+	background      : transparent url(images/album1005012.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  36.75pt;
+	top             : 272.25pt;
+	width           : 129.75pt;
+	height          :   0.75pt;
+	}
+span#e22            { /* images/album1001012.gif */
+	background      : transparent url(images/album1001012.gif) no-repeat top left;
+	position        : absolute;
+	left            : 479.25pt;
+	top             : 157.50pt;
+	width           : 255.00pt;
+	height          : 184.50pt;
+	}
+span#e21            { /* images/album1005011.jpg */
+	border          :   0.00pt none #ffffff;
+	background      : transparent url(images/album1005011.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 372.75pt;
+	top             : 365.25pt;
+	width           : 165.00pt;
+	height          : 141.00pt;
+	}
+span#e20            { /* images/album1005010.jpg */
+	border          :   0.00pt none #ffffff;
+	background      : transparent url(images/album1005010.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 537.75pt;
+	top             : 365.25pt;
+	width           : 165.75pt;
+	height          : 141.00pt;
+	}
+h5#e19              { /* Michael Mullen 2004 */
+	text-align      : left;
+	position        : absolute;
+	left            : 402.00pt;
+	top             : 504.75pt;
+	width           : 138.00pt;
+	height          :  15.75pt;
+	}
+h5#e18              {
+	text-align      : left;
+	position        : absolute;
+	left            : 558.00pt;
+	top             : 494.25pt;
+	width           : 138.00pt;
+	height          :  12.00pt;
+	}
+h4#e17              { /* About Us */
+	font            : bold 12pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	text-align      : left;
+	position        : absolute;
+	left            :  35.25pt;
+	top             : 362.25pt;
+	width           : 151.50pt;
+	height          :  19.50pt;
+	}
+div#e16             {
+	text-align      : left;
+	position        : absolute;
+	left            :  35.25pt;
+	top             : 393.00pt;
+	width           : 335.25pt;
+	height          :  12.00pt;
+	}
+h6#e15              { /* Follow us on Facebook   ... */
+	position        : absolute;
+	left            :  30.00pt;
+	top             : 747.00pt;
+	width           : 711.75pt;
+	height          :  16.50pt;
+	}
+span#e14            { /* images/album1005009.jpg */
+	border          :   0.00pt none #ffffff;
+	background      : transparent url(images/album1005009.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  26.25pt;
+	top             : 548.25pt;
+	width           : 181.50pt;
+	height          : 169.50pt;
+	}
+span#e13            { /* images/album1005008.jpg */
+	border          :   0.00pt none #ffffff;
+	background      : transparent url(images/album1005008.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 218.25pt;
+	top             : 546.75pt;
+	width           : 166.50pt;
+	height          : 173.25pt;
+	}
+h5#e12              {
+	text-align      : left;
+	position        : absolute;
+	left            :  34.50pt;
+	top             : 704.25pt;
+	width           : 138.00pt;
+	height          :  12.00pt;
+	}
+h5#e11              {
+	text-align      : left;
+	position        : absolute;
+	left            : 221.25pt;
+	top             : 705.75pt;
+	width           : 138.00pt;
+	height          :  12.00pt;
+	}
+span#e10            { /* images/album1005007.jpg */
+	background      : transparent url(images/album1005007.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 127.50pt;
+	top             :   0.00pt;
+	width           : 617.25pt;
+	height          : 129.75pt;
+	}
+span#e9             { /* images/album1005006.jpg */
+	background      : transparent url(images/album1005006.jpg) no-repeat top left;
+	position        : absolute;
+	left            :   0.75pt;
+	top             :   0.00pt;
+	width           : 122.25pt;
+	height          : 129.00pt;
+	}
+span#e8             { /* images/album1005005.jpg */
+	background      : transparent url(images/album1005005.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 177.00pt;
+	top             : 129.00pt;
+	width           : 300.00pt;
+	height          : 216.00pt;
+	}
+div#e7              { /* The inaugural Clifden Li... */
+	position        : absolute;
+	left            :  38.25pt;
+	top             : 381.00pt;
+	width           : 316.50pt;
+	height          : 173.25pt;
+	}
+div#e6              { /* Due to the overwhelming ... */
+	position        : absolute;
+	left            : 444.75pt;
+	top             : 568.50pt;
+	width           : 265.50pt;
+	height          : 120.75pt;
+	}
+span#e5             { /* images/album1005004.jpg */
+	background      : transparent url(images/album1005004.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 381.75pt;
+	top             : 374.25pt;
+	width           : 148.50pt;
+	height          : 124.50pt;
+	}
+span#e4             { /* images/album1005003.jpg */
+	background      : transparent url(images/album1005003.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 546.75pt;
+	top             : 373.50pt;
+	width           : 150.00pt;
+	height          : 125.25pt;
+	}
+span#e3             { /* images/album1005002.jpg */
+	background      : transparent url(images/album1005002.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 228.00pt;
+	top             : 556.50pt;
+	width           : 151.50pt;
+	height          : 155.25pt;
+	}
+div#e2              { /* Registration */
+	padding-top     :   2.25pt;
+	position        : absolute;
+	left            :  36.00pt;
+	top             : 198.00pt;
+	width           : 126.75pt;
+	height          :  12.00pt;
+	}
+span#e1             { /* images/album1005001.jpg */
+	background      : transparent url(images/album1005001.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  35.25pt;
+	top             : 557.25pt;
+	width           : 165.00pt;
+	height          : 153.00pt;
+	}
+div#page            { /* Page Holder */
+	background-image: url(images/blueer0001.gif);
+	position        : relative;
+	width           : 768.00pt;
+	height          : 787.50pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : auto;
+	}
+
+
+
+/*--- EndOfFile ---*/

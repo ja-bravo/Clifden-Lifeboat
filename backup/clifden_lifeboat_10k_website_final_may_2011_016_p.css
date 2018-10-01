@@ -1,0 +1,285 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc73               { /* Common */
+	border          :   0.00pt none #0000ff;
+	}
+.cc74               { /* Common */
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	color           : #333333;
+	}
+h5#e34              {
+	font            : 1pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	text-align      : left;
+	position        : absolute;
+	left            :  99.75pt;
+	top             :  43.50pt;
+	width           :  24.75pt;
+	height          :   3.00pt;
+	}
+span#e33            { /* clifden_lifeboat_10k_web... */
+	clip            : rect(0.00pt,23.25pt,10.50pt,0.00pt);
+	background      : transparent url(clifden_lifeboat_10k_website_final_may_2011001014.gif) no-repeat top left;
+	position        : absolute;
+	left            :   0.00pt;
+	top             :   0.00pt;
+	width           :  23.25pt;
+	height          :  10.50pt;
+	}
+h2#e32              {
+	font            : 3pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	text-align      : left;
+	position        : absolute;
+	left            : 195.00pt;
+	top             : 189.75pt;
+	width           :  84.75pt;
+	height          :   6.75pt;
+	}
+span#e31            { /* clifden_lifeboat_10k_web... */
+	background      : transparent url(clifden_lifeboat_10k_website_final_may_2011001013.jpg) no-repeat top left;
+	position        : absolute;
+	left            :   0.00pt;
+	top             :   0.00pt;
+	width           : 105.00pt;
+	height          : 134.25pt;
+	}
+h4#e30              {
+	font            : bold 18pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	color           : #800000;
+	text-align      : left;
+	position        : absolute;
+	left            : 207.00pt;
+	top             : 163.50pt;
+	width           : 128.25pt;
+	height          :  24.00pt;
+	}
+h4#e29              {
+	font            : bold 14pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	color           : #800000;
+	text-align      : left;
+	position        : absolute;
+	left            : 301.50pt;
+	top             : 169.50pt;
+	width           : 153.00pt;
+	height          :  19.50pt;
+	}
+span#e28            { /* clifden_lifeboat_10k_web... */
+	background      : transparent url(clifden_lifeboat_10k_website_final_may_2011016021.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 104.25pt;
+	top             :   0.00pt;
+	width           : 640.50pt;
+	height          : 134.25pt;
+	}
+span#e27            { /* clifden_lifeboat_10k_web... */
+	background      : transparent url(clifden_lifeboat_10k_website_final_may_2011016020.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  16.50pt;
+	top             : 165.00pt;
+	width           : 195.00pt;
+	height          : 150.75pt;
+	}
+span#e26            { /* clifden_lifeboat_10k_web... */
+	background      : transparent url(clifden_lifeboat_10k_website_final_may_2011016019.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 213.75pt;
+	top             : 387.75pt;
+	width           : 164.25pt;
+	height          : 188.25pt;
+	}
+span#e25            { /* clifden_lifeboat_10k_web... */
+	background      : transparent url(clifden_lifeboat_10k_website_final_may_2011016018.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 355.50pt;
+	top             : 163.50pt;
+	width           : 192.00pt;
+	height          : 150.75pt;
+	}
+span#e24            { /* clifden_lifeboat_10k_web... */
+	background      : transparent url(clifden_lifeboat_10k_website_final_may_2011016017.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 189.75pt;
+	top             : 185.25pt;
+	width           : 180.75pt;
+	height          : 203.25pt;
+	}
+span#e23            { /* clifden_lifeboat_10k_web... */
+	background      : transparent url(clifden_lifeboat_10k_website_final_may_2011016016.jpg) no-repeat top left;
+	position        : absolute;
+	left            :   2.25pt;
+	top             : 286.50pt;
+	width           : 105.75pt;
+	height          : 168.75pt;
+	}
+span#e22            { /* clifden_lifeboat_10k_web... */
+	background      : transparent url(clifden_lifeboat_10k_website_final_may_2011016015.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 533.25pt;
+	top             : 149.25pt;
+	width           : 113.25pt;
+	height          : 180.75pt;
+	}
+span#e21            { /* clifden_lifeboat_10k_web... */
+	background      : transparent url(clifden_lifeboat_10k_website_final_may_2011016014.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 106.50pt;
+	top             : 300.00pt;
+	width           : 106.50pt;
+	height          : 154.50pt;
+	}
+span#e20            { /* clifden_lifeboat_10k_web... */
+	background      : transparent url(clifden_lifeboat_10k_website_final_may_2011016013.jpg) no-repeat top left;
+	position        : absolute;
+	left            :   0.75pt;
+	top             : 414.00pt;
+	width           : 214.50pt;
+	height          : 162.00pt;
+	}
+span#e19            { /* clifden_lifeboat_10k_web... */
+	background      : transparent url(clifden_lifeboat_10k_website_final_may_2011016012.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 369.00pt;
+	top             : 292.50pt;
+	width           : 159.75pt;
+	height          : 111.00pt;
+	}
+span#e18            { /* clifden_lifeboat_10k_web... */
+	background      : transparent url(clifden_lifeboat_10k_website_final_may_2011016011.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 531.00pt;
+	top             : 320.25pt;
+	width           : 214.50pt;
+	height          : 171.00pt;
+	}
+span#e17            { /* clifden_lifeboat_10k_web... */
+	background      : transparent url(clifden_lifeboat_10k_website_final_may_2011016010.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 639.00pt;
+	top             : 159.75pt;
+	width           : 106.50pt;
+	height          : 160.50pt;
+	}
+img#e16             { /* clifden_lifeboat_10k_web... */
+	position        : absolute;
+	left            :   3.75pt;
+	top             : 137.25pt;
+	width           :  52.50pt;
+	height          :  21.00pt;
+	}
+img#e15             { /* clifden_lifeboat_10k_web... */
+	position        : absolute;
+	left            :  66.75pt;
+	top             : 137.25pt;
+	width           :  57.75pt;
+	height          :  20.25pt;
+	}
+img#e14             { /* clifden_lifeboat_10k_web... */
+	position        : absolute;
+	left            : 276.00pt;
+	top             : 138.00pt;
+	width           :  58.50pt;
+	height          :  21.00pt;
+	}
+img#e13             { /* clifden_lifeboat_10k_web... */
+	position        : absolute;
+	left            : 345.00pt;
+	top             : 138.00pt;
+	width           :  53.25pt;
+	height          :  21.00pt;
+	}
+img#e12             { /* clifden_lifeboat_10k_web... */
+	position        : absolute;
+	left            : 408.00pt;
+	top             : 138.75pt;
+	width           :  40.50pt;
+	height          :  19.50pt;
+	}
+div#e11             { /* &nbsp;Home  */
+	position        : absolute;
+	left            :   3.75pt;
+	top             : 139.50pt;
+	width           :  53.25pt;
+	height          :  20.25pt;
+	}
+div#e10             { /* Background */
+	position        : absolute;
+	left            :  66.75pt;
+	top             : 137.25pt;
+	width           :  57.75pt;
+	height          :  19.50pt;
+	}
+img#e9              { /* clifden_lifeboat_10k_web... */
+	position        : absolute;
+	left            : 138.00pt;
+	top             : 138.75pt;
+	width           :  48.00pt;
+	height          :  20.25pt;
+	}
+div#e8              { /* Categories */
+	position        : absolute;
+	left            : 138.00pt;
+	top             : 138.75pt;
+	width           :  47.25pt;
+	height          :  21.00pt;
+	}
+img#e7              { /* clifden_lifeboat_10k_web... */
+	position        : absolute;
+	left            : 202.50pt;
+	top             : 138.75pt;
+	width           :  63.75pt;
+	height          :  21.00pt;
+	}
+div#e6              { /* &nbsp;&nbsp;On Race Day */
+	position        : absolute;
+	left            : 201.75pt;
+	top             : 139.50pt;
+	width           :  63.75pt;
+	height          :  20.25pt;
+	}
+div#e5              { /* &nbsp;Race Reports */
+	position        : absolute;
+	left            : 276.00pt;
+	top             : 138.00pt;
+	width           :  59.25pt;
+	height          :  21.00pt;
+	}
+div#e4              { /* Contact Us */
+	position        : absolute;
+	left            : 345.75pt;
+	top             : 138.00pt;
+	width           :  53.25pt;
+	height          :  20.25pt;
+	}
+div#e3              { /* Photos */
+	position        : absolute;
+	left            : 410.25pt;
+	top             : 138.75pt;
+	width           :  37.50pt;
+	height          :  19.50pt;
+	}
+span#e2             { /* clifden_lifeboat_10k_web... */
+	background      : transparent url(clifden_lifeboat_10k_website_final_may_2011016002.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 371.25pt;
+	top             : 397.50pt;
+	width           : 204.75pt;
+	height          : 178.50pt;
+	}
+span#e1             { /* clifden_lifeboat_10k_web... */
+	background      : transparent url(clifden_lifeboat_10k_website_final_may_2011016001.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 581.25pt;
+	top             : 456.00pt;
+	width           : 164.25pt;
+	height          : 120.00pt;
+	}
+body#page           { /* Page Body */
+	background-image: url(texture-3.jpg);
+	overflow        : auto;
+	}
+
+
+
+/*--- EndOfFile ---*/

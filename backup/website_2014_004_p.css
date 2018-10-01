@@ -1,0 +1,419 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc16               { /* Common */
+	font            : italic 48pt 'Franklin Gothic Demi';
+	color           : #0099cc;
+	}
+.cc17               { /* Common */
+	font            : 16pt 'Arial', Helvetica, sans-serif;
+	color           : #ffffff;
+	}
+.cc18               { /* Common */
+	font            : bold 11pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	color           : #0099cc;
+	}
+.cc19               { /* Common */
+	font            : 11pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	color           : #000000;
+	text-align      : justify;
+	}
+.cc20               { /* Common */
+	font            : bold 11pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	color           : #0066cc;
+	}
+.cc21               { /* Common */
+	font            : 8pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	color           : #ffffff;
+	}
+.cc22               { /* Common */
+	font            : 11pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	color           : #000000;
+	text-align      : center;
+	}
+div#e44             {
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	text-align      : left;
+	position        : absolute;
+	left            : 306.00pt;
+	top             : 206.25pt;
+	width           : 503.25pt;
+	height          : 318.75pt;
+	}
+span#e43            { /* images/website_201400201... */
+	background      : transparent url(images/website_2014002010.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 754.50pt;
+	top             : 549.75pt;
+	width           :  55.50pt;
+	height          :  67.50pt;
+	}
+div#e42             {
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	text-align      : left;
+	position        : absolute;
+	left            : 700.50pt;
+	top             : 180.00pt;
+	width           :  87.00pt;
+	height          :  27.00pt;
+	}
+span#e41            { /* images/website_201400400... */
+	clip            : rect(0.00pt,21.00pt,10.50pt,0.00pt);
+	background      : transparent url(images/website_2014004008.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 680.25pt;
+	top             : 206.25pt;
+	width           :  21.00pt;
+	height          :  10.50pt;
+	}
+div#e40             {
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #6d8d00;
+	text-align      : left;
+	position        : absolute;
+	left            : 441.00pt;
+	top             : 180.00pt;
+	width           :  87.00pt;
+	height          :  27.00pt;
+	}
+span#e39            { /* images/website_201400101... */
+	clip            : rect(0.00pt,21.00pt,10.50pt,0.00pt);
+	background      : transparent url(images/website_2014001010.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 507.75pt;
+	top             : 207.00pt;
+	width           :  21.00pt;
+	height          :  10.50pt;
+	}
+div#e38             {
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #6d8d00;
+	text-align      : left;
+	position        : absolute;
+	left            : 354.00pt;
+	top             : 180.00pt;
+	width           :  87.00pt;
+	height          :  27.00pt;
+	}
+a#a38               {
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #6d8d00;
+	}
+span#e37            { /* images/website_201400400... */
+	clip            : rect(0.00pt,21.00pt,11.25pt,0.00pt);
+	background      : transparent url(images/website_2014004006.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 420.00pt;
+	top             : 207.00pt;
+	width           :  21.00pt;
+	height          :  11.25pt;
+	}
+div#e36             { /* Home */
+	padding-top     :   7.50pt;
+	position        : absolute;
+	left            : 354.00pt;
+	top             : 180.00pt;
+	width           :  87.00pt;
+	height          :  19.50pt;
+	}
+div#e35             { /* About Us */
+	padding-top     :   6.75pt;
+	position        : absolute;
+	left            : 441.00pt;
+	top             : 180.75pt;
+	width           :  87.00pt;
+	height          :  19.50pt;
+	}
+div#e34             { /* Race Categories */
+	color           : #0099cc;
+	padding-top     :   6.75pt;
+	position        : absolute;
+	left            : 613.50pt;
+	top             : 180.00pt;
+	width           :  87.00pt;
+	height          :  19.50pt;
+	}
+a#a34               { /* Race Categories */
+	color           : #0099cc;
+	}
+div#e33             { /* Contact */
+	padding-top     :   7.50pt;
+	position        : absolute;
+	left            : 702.00pt;
+	top             : 180.00pt;
+	width           :  87.00pt;
+	height          :  19.50pt;
+	}
+h4#e32              { /* Race Categories */
+	color           : #0099cc;
+	padding-top     :   0.75pt;
+	position        : absolute;
+	left            : 318.00pt;
+	top             : 225.75pt;
+	width           : 230.25pt;
+	height          :  24.00pt;
+	}
+div#e31             { /* Trophies for 1st and 2nd... */
+	font            : 11pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	position        : absolute;
+	left            : 321.00pt;
+	top             : 273.75pt;
+	width           : 241.50pt;
+	height          :  56.25pt;
+	}
+h5#e30              { /* Runners: */
+	font            : bold 11pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	padding-top     :   3.00pt;
+	position        : absolute;
+	left            : 320.25pt;
+	top             : 256.50pt;
+	width           : 188.25pt;
+	height          :  16.50pt;
+	}
+div#e29             { /* Trophies for 1st, 2nd an... */
+	font            : 11pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	position        : absolute;
+	left            : 321.00pt;
+	top             : 357.75pt;
+	width           : 188.25pt;
+	height          :  36.00pt;
+	}
+h5#e28              { /* more... */
+	padding-top     :   2.25pt;
+	position        : absolute;
+	left            : 320.25pt;
+	top             : 576.75pt;
+	width           : 188.25pt;
+	height          :  12.75pt;
+	}
+h5#e27              { /* Walkers and Run/Walkers: */
+	font            : bold 11pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	padding-top     :   6.00pt;
+	position        : absolute;
+	left            : 320.25pt;
+	top             : 334.50pt;
+	width           : 188.25pt;
+	height          :  19.50pt;
+	}
+div#e26             { /* Shield for 1st team, and... */
+	font            : 11pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	text-align      : justify;
+	position        : absolute;
+	left            : 323.25pt;
+	top             : 407.25pt;
+	width           : 232.50pt;
+	height          :  69.75pt;
+	}
+h5#e25              { /* Teams */
+	font            : bold 11pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	padding-top     :   6.00pt;
+	position        : absolute;
+	left            : 322.50pt;
+	top             : 385.50pt;
+	width           : 188.25pt;
+	height          :  19.50pt;
+	}
+div#e24             { /* Trophy for anyone who ca... */
+	font            : bold 11pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	color           : #ff0033;
+	position        : absolute;
+	left            : 583.50pt;
+	top             : 405.75pt;
+	width           : 212.25pt;
+	height          :  83.25pt;
+	}
+h5#e23              { /* more... */
+	padding-top     :   2.25pt;
+	position        : absolute;
+	left            : 597.75pt;
+	top             : 576.75pt;
+	width           : 188.25pt;
+	height          :  12.75pt;
+	}
+span#e22            { /* images/website_201400100... */
+	background      : transparent url(images/website_2014001006.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  12.75pt;
+	top             :  11.25pt;
+	width           : 226.50pt;
+	height          : 138.75pt;
+	}
+div#e21             { /* Clifden Lifeboat 10k Run */
+	position        : absolute;
+	left            : 250.50pt;
+	top             :  81.75pt;
+	width           : 561.75pt;
+	height          :  67.50pt;
+	}
+img#e20             { /* images/website_201400100... */
+	position        : absolute;
+	left            : 756.75pt;
+	top             :  10.50pt;
+	width           :  45.00pt;
+	height          :  45.00pt;
+	}
+img#e19             { /* images/website_201400100... */
+	position        : absolute;
+	left            : 813.75pt;
+	top             :   9.75pt;
+	width           :  47.25pt;
+	height          :  47.25pt;
+	}
+div#e18             { /* Do you have what it take... */
+	position        : absolute;
+	left            : 672.00pt;
+	top             : 144.00pt;
+	width           : 228.00pt;
+	height          :  45.75pt;
+	}
+span#e17            { /* images/website_201400400... */
+	background      : transparent url(images/website_2014004005.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 561.00pt;
+	top             : 206.25pt;
+	width           : 255.75pt;
+	height          : 159.75pt;
+	}
+div#e16             {
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	text-align      : left;
+	position        : absolute;
+	left            : 192.00pt;
+	top             : 180.00pt;
+	width           : 162.00pt;
+	height          :  27.00pt;
+	}
+div#e15             {
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #6d8d00;
+	text-align      : left;
+	position        : absolute;
+	left            : 527.25pt;
+	top             : 180.00pt;
+	width           :  87.00pt;
+	height          :  27.00pt;
+	}
+div#e14             { /* Race Day */
+	padding-top     :   6.75pt;
+	position        : absolute;
+	left            : 528.00pt;
+	top             : 180.75pt;
+	width           :  87.00pt;
+	height          :  19.50pt;
+	}
+span#e13            { /* images/website_201400400... */
+	clip            : rect(0.00pt,21.00pt,10.50pt,0.00pt);
+	background      : transparent url(images/website_2014004004.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 593.25pt;
+	top             : 207.00pt;
+	width           :  21.00pt;
+	height          :  10.50pt;
+	}
+span#e12            { /* images/website_201400400... */
+	clip            : rect(0.00pt,21.00pt,10.50pt,0.00pt);
+	background      : transparent url(images/website_2014004003.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 766.50pt;
+	top             : 206.25pt;
+	width           :  21.00pt;
+	height          :  10.50pt;
+	}
+div#e11             {
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	text-align      : left;
+	position        : absolute;
+	left            :  19.50pt;
+	top             : 527.25pt;
+	width           : 789.75pt;
+	height          : 135.00pt;
+	}
+div#e10             { /* Race Route  */
+	position        : absolute;
+	left            :  69.00pt;
+	top             : 555.00pt;
+	width           : 105.75pt;
+	height          :  27.00pt;
+	}
+div#e9              { /* The race starts at the C... */
+	position        : absolute;
+	left            :  48.00pt;
+	top             : 579.00pt;
+	width           : 185.25pt;
+	height          :  85.50pt;
+	}
+div#e8              { /* Contact Us */
+	position        : absolute;
+	left            : 650.25pt;
+	top             : 558.00pt;
+	width           : 105.75pt;
+	height          :  15.75pt;
+	}
+div#e7              { /* For more information, co... */
+	position        : absolute;
+	left            : 624.75pt;
+	top             : 579.00pt;
+	width           : 153.75pt;
+	height          :  56.25pt;
+	}
+div#e6              { /* Race Route Map */
+	position        : absolute;
+	left            : 372.75pt;
+	top             : 580.50pt;
+	width           : 135.00pt;
+	height          :  40.50pt;
+	}
+span#e5             { /* images/website_201400400... */
+	background      : transparent url(images/website_2014004002.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  19.50pt;
+	top             : 207.00pt;
+	width           : 288.75pt;
+	height          : 311.25pt;
+	}
+span#e4             { /* images/website_201400400... */
+	background      : transparent url(images/website_2014004001.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  85.50pt;
+	top             : 180.00pt;
+	width           : 107.25pt;
+	height          :  39.00pt;
+	}
+div#e3              { /* Enter online  */
+	position        : absolute;
+	left            : 625.50pt;
+	top             : 495.75pt;
+	width           : 132.75pt;
+	height          :  38.25pt;
+	}
+div#e2              { /* View from Sky Road  */
+	position        : absolute;
+	left            :  23.25pt;
+	top             : 495.75pt;
+	width           : 129.00pt;
+	height          :  30.75pt;
+	}
+div#e1              { /* Entry fee is €20/individ... */
+	position        : absolute;
+	left            : 324.75pt;
+	top             : 482.25pt;
+	width           : 231.75pt;
+	height          :  45.00pt;
+	}
+div#page            { /* Page Holder */
+	background-color: transparent;
+	position        : relative;
+	width           : 900.00pt;
+	height          : 675.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #000000;
+	text-align      : center;
+	}
+
+
+
+/*--- EndOfFile ---*/

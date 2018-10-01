@@ -1,0 +1,182 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc57               { /* Common */
+	font            : 10pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	color           : #c0c0c0;
+	}
+.cc58               { /* Common */
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	color           : #333333;
+	}
+.cc59               { /* Common */
+	font            : 1pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc60               { /* Common */
+	border          :   0.00pt none #0000ff;
+	}
+h5#e19              {
+	font            : 1pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	text-align      : left;
+	position        : absolute;
+	left            :  99.75pt;
+	top             :  43.50pt;
+	width           :  24.75pt;
+	height          :   3.00pt;
+	}
+span#e18            { /* clifden_lifeboat_10k_web... */
+	clip            : rect(0.00pt,23.25pt,10.50pt,0.00pt);
+	background      : transparent url(clifden_lifeboat_10k_website_final_may_2011001014.gif) no-repeat top left;
+	position        : absolute;
+	left            :   0.00pt;
+	top             :   0.00pt;
+	width           :  23.25pt;
+	height          :  10.50pt;
+	}
+h2#e17              {
+	font            : 3pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	text-align      : left;
+	position        : absolute;
+	left            : 195.00pt;
+	top             : 189.75pt;
+	width           :  84.75pt;
+	height          :   6.75pt;
+	}
+span#e16            { /* clifden_lifeboat_10k_web... */
+	background      : transparent url(clifden_lifeboat_10k_website_final_may_2011001013.jpg) no-repeat top left;
+	position        : absolute;
+	left            :   0.00pt;
+	top             :   0.00pt;
+	width           : 105.00pt;
+	height          : 134.25pt;
+	}
+h4#e15              {
+	font            : bold 18pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	color           : #800000;
+	text-align      : left;
+	position        : absolute;
+	left            : 207.00pt;
+	top             : 163.50pt;
+	width           : 128.25pt;
+	height          :  24.00pt;
+	}
+h4#e14              {
+	font            : bold 14pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	color           : #800000;
+	text-align      : left;
+	position        : absolute;
+	left            : 301.50pt;
+	top             : 169.50pt;
+	width           : 153.00pt;
+	height          :  19.50pt;
+	}
+h4#e13              { /* 2010 Race Results */
+	font            : bold 16pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	color           : #800000;
+	text-align      : left;
+	position        : absolute;
+	left            : 240.00pt;
+	top             : 158.25pt;
+	width           : 172.50pt;
+	height          :  44.25pt;
+	}
+span#e12            { /* clifden_lifeboat_10k_web... */
+	background      : transparent url(clifden_lifeboat_10k_website_final_may_2011012007.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 105.75pt;
+	top             :   0.00pt;
+	width           : 242.25pt;
+	height          : 134.25pt;
+	}
+span#e11            { /* clifden_lifeboat_10k_web... */
+	background      : transparent url(clifden_lifeboat_10k_website_final_may_2011012006.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 348.00pt;
+	top             :   0.00pt;
+	width           : 135.75pt;
+	height          : 134.25pt;
+	}
+span#e10            { /* clifden_lifeboat_10k_web... */
+	background      : transparent url(clifden_lifeboat_10k_website_final_may_2011012005.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 483.75pt;
+	top             :   0.75pt;
+	width           : 114.00pt;
+	height          : 133.50pt;
+	}
+div#e9              { /* Total entries: 126\ \Tot... */
+	position        : absolute;
+	left            :  12.75pt;
+	top             : 166.50pt;
+	width           : 305.25pt;
+	height          : 129.75pt;
+	}
+span#e8             { /* clifden_lifeboat_10k_web... */
+	background      : transparent url(clifden_lifeboat_10k_website_final_may_2011012004.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 109.50pt;
+	top             : 284.25pt;
+	width           : 177.00pt;
+	height          : 282.75pt;
+	}
+div#e7              { /* Gene Chumley (USA) */
+	position        : absolute;
+	left            : 112.50pt;
+	top             : 552.75pt;
+	width           :  99.00pt;
+	height          :  19.50pt;
+	}
+div#e6              { /* <TABLE class="ct02" cell... */
+	position        : absolute;
+	left            : 366.75pt;
+	top             : 215.25pt;
+	width           : 349.50pt;
+	height          : 360.75pt;
+	}
+span#e5             { /* clifden_lifeboat_10k_web... */
+	background      : transparent url(clifden_lifeboat_10k_website_final_may_2011012003.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 598.50pt;
+	top             :   0.00pt;
+	width           : 147.00pt;
+	height          : 135.00pt;
+	}
+img#e4              { /* clifden_lifeboat_10k_web... */
+	position        : absolute;
+	left            : 649.50pt;
+	top             : 141.75pt;
+	width           :  75.75pt;
+	height          :  21.00pt;
+	}
+div#e3              { /* 2009 Race Report */
+	position        : absolute;
+	left            : 651.00pt;
+	top             : 141.75pt;
+	width           :  74.25pt;
+	height          :  22.50pt;
+	}
+img#e2              { /* clifden_lifeboat_10k_web... */
+	position        : absolute;
+	left            :  13.50pt;
+	top             : 140.25pt;
+	width           :  75.75pt;
+	height          :  21.00pt;
+	}
+div#e1              { /* &nbsp;&nbsp;&nbsp;&nbsp;... */
+	position        : absolute;
+	left            :  13.50pt;
+	top             : 140.25pt;
+	width           :  75.00pt;
+	height          :  22.50pt;
+	}
+body#page           { /* Page Body */
+	background-image: url(texture-3.jpg);
+	overflow        : auto;
+	}
+
+
+
+/*--- EndOfFile ---*/

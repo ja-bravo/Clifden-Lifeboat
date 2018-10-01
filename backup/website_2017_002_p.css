@@ -1,0 +1,289 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc06               { /* Common */
+	font            : italic 48pt 'Franklin Gothic Demi';
+	color           : #0099cc;
+	}
+.cc07               { /* Common */
+	font            : 16pt 'Arial', Helvetica, sans-serif;
+	color           : #ffffff;
+	}
+.cc08               { /* Common */
+	font            : 11pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	color           : #000000;
+	text-align      : justify;
+	}
+.cc09               { /* Common */
+	font            : bold 11pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	color           : #0099cc;
+	}
+.cc10               { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+div#e30             {
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	text-align      : left;
+	position        : absolute;
+	left            : 303.00pt;
+	top             : 205.50pt;
+	width           : 511.50pt;
+	height          : 318.75pt;
+	}
+span#e29            { /* images/website_201700200... */
+	background      : transparent url(images/website_2017002005.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 754.50pt;
+	top             : 549.75pt;
+	width           :  55.50pt;
+	height          :  67.50pt;
+	}
+div#e28             {
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	text-align      : left;
+	position        : absolute;
+	left            : 702.75pt;
+	top             : 178.50pt;
+	width           :  87.00pt;
+	height          :  27.00pt;
+	}
+div#e27             {
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #6d8d00;
+	text-align      : left;
+	position        : absolute;
+	left            : 616.50pt;
+	top             : 178.50pt;
+	width           :  87.00pt;
+	height          :  27.00pt;
+	}
+div#e26             {
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #6d8d00;
+	text-align      : left;
+	position        : absolute;
+	left            : 529.50pt;
+	top             : 178.50pt;
+	width           :  87.00pt;
+	height          :  27.00pt;
+	}
+div#e25             {
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #6d8d00;
+	text-align      : left;
+	position        : absolute;
+	left            : 356.25pt;
+	top             : 179.25pt;
+	width           :  87.00pt;
+	height          :  27.00pt;
+	}
+div#e24             { /* Home */
+	padding-top     :   7.50pt;
+	position        : absolute;
+	left            : 357.00pt;
+	top             : 180.00pt;
+	width           :  87.00pt;
+	height          :  19.50pt;
+	}
+div#e23             { /* About us */
+	color           : #0099cc;
+	padding-top     :   7.50pt;
+	position        : absolute;
+	left            : 443.25pt;
+	top             : 179.25pt;
+	width           :  87.00pt;
+	height          :  19.50pt;
+	}
+a#a23               { /* About us */
+	color           : #0099cc;
+	}
+h4#e22              { /* Background */
+	color           : #0099cc;
+	padding-top     :   0.75pt;
+	position        : absolute;
+	left            : 319.50pt;
+	top             : 216.75pt;
+	width           : 230.25pt;
+	height          :  24.00pt;
+	}
+div#e21             { /* The inaugural Clifden Li... */
+	font            : 11pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	text-align      : justify;
+	position        : absolute;
+	left            : 319.50pt;
+	top             : 252.00pt;
+	width           : 288.00pt;
+	height          : 264.75pt;
+	}
+h5#e20              { /* more... */
+	padding-top     :   2.25pt;
+	position        : absolute;
+	left            : 320.25pt;
+	top             : 584.25pt;
+	width           : 230.25pt;
+	height          :  12.75pt;
+	}
+div#e19             { /* Clifden Lifeboat 10k Run */
+	position        : absolute;
+	left            : 250.50pt;
+	top             :  81.75pt;
+	width           : 561.75pt;
+	height          :  67.50pt;
+	}
+span#e18            { /* images/website_201700100... */
+	background      : transparent url(images/website_2017001007.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  12.75pt;
+	top             :  11.25pt;
+	width           : 226.50pt;
+	height          : 138.75pt;
+	}
+div#e17             { /* Do you have what it take... */
+	position        : absolute;
+	left            : 671.25pt;
+	top             : 140.25pt;
+	width           : 228.75pt;
+	height          :  45.75pt;
+	}
+div#e16             {
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	text-align      : left;
+	position        : absolute;
+	left            : 194.25pt;
+	top             : 179.25pt;
+	width           : 162.00pt;
+	height          :  27.00pt;
+	}
+div#e15             { /* Race Day */
+	padding-top     :   6.75pt;
+	position        : absolute;
+	left            : 531.00pt;
+	top             : 180.00pt;
+	width           :  86.25pt;
+	height          :  18.75pt;
+	}
+div#e14             { /* Race Categories */
+	padding-top     :   6.75pt;
+	position        : absolute;
+	left            : 616.50pt;
+	top             : 180.00pt;
+	width           :  87.00pt;
+	height          :  18.75pt;
+	}
+div#e13             { /* Contact */
+	padding-top     :   7.50pt;
+	position        : absolute;
+	left            : 703.50pt;
+	top             : 177.75pt;
+	width           :  87.00pt;
+	height          :  19.50pt;
+	}
+div#e12             { /* Mikey Mullen 2004 */
+	font            : bold 8pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	color           : #ffffff;
+	position        : absolute;
+	left            : 108.75pt;
+	top             : 479.25pt;
+	width           : 105.75pt;
+	height          :  35.25pt;
+	}
+div#e11             {
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	text-align      : left;
+	position        : absolute;
+	left            :  25.50pt;
+	top             : 532.50pt;
+	width           : 789.75pt;
+	height          : 135.00pt;
+	}
+div#e10             { /* For more information, co... */
+	position        : absolute;
+	left            : 618.00pt;
+	top             : 574.50pt;
+	width           : 153.75pt;
+	height          :  56.25pt;
+	}
+div#e9              { /* Contact Us */
+	position        : absolute;
+	left            : 618.00pt;
+	top             : 546.75pt;
+	width           : 105.75pt;
+	height          :  30.00pt;
+	}
+div#e8              { /* Enter online  */
+	position        : absolute;
+	left            : 394.50pt;
+	top             : 580.50pt;
+	width           : 132.75pt;
+	height          :  38.25pt;
+	}
+div#e7              { /* Race Categories */
+	position        : absolute;
+	left            :  52.50pt;
+	top             : 555.75pt;
+	width           : 105.75pt;
+	height          :  33.75pt;
+	}
+div#e6              { /* Runners, walkers, and te... */
+	position        : absolute;
+	left            :  54.75pt;
+	top             : 581.25pt;
+	width           : 144.00pt;
+	height          :  73.50pt;
+	}
+img#e5              { /* images/website_201700100... */
+	position        : absolute;
+	left            : 760.50pt;
+	top             :  12.75pt;
+	width           :  50.25pt;
+	height          :  50.25pt;
+	}
+img#e4              { /* images/website_201700200... */
+	position        : absolute;
+	left            : 818.25pt;
+	top             :  17.25pt;
+	width           :  52.50pt;
+	height          :  52.50pt;
+	}
+span#e3             { /* images/website_201700200... */
+	background      : transparent url(images/website_2017002003.jpg) no-repeat top left;
+	position        : absolute;
+	left            :   6.00pt;
+	top             : 205.50pt;
+	width           : 297.00pt;
+	height          : 266.25pt;
+	}
+span#e2             { /* images/website_201700200... */
+	background      : transparent url(images/website_2017002002.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 633.75pt;
+	top             : 214.50pt;
+	width           : 171.00pt;
+	height          : 112.50pt;
+	}
+span#e1             { /* images/website_201700200... */
+	background      : transparent url(images/website_2017002001.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 669.75pt;
+	top             : 335.25pt;
+	width           : 132.75pt;
+	height          : 181.50pt;
+	}
+div#page            { /* Page Holder */
+	background-color: transparent;
+	position        : relative;
+	width           : 900.00pt;
+	height          : 675.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #000000;
+	text-align      : center;
+	}
+
+
+
+/*--- EndOfFile ---*/
